@@ -24,7 +24,8 @@ const { lang } = useLanguage("id");
     <div class="max-w-4xl mx-auto px-4">
       <div class="flex items-center justify-between">
         <h1 class="text-2xl font-custom-mafia tracking-wide">Far Cry 0</h1>
-        <span class="text-custom-mafia-accent font-custom-noir text-sm"
+        <span
+          class="text-custom-mafia-accent font-custom-noir text-sm font-semibold"
           >Conflict & Survival</span
         >
 
