@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Slab:wght@100..900&display=swap');
+
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-custom-mafia-black: #0D0D0D;
+  --color-custom-mafia-dark: #1A1A1A;
+  --color-custom-mafia-gray: #3D3D3D;
+  --color-custom-mafia-light: #D9D9D9;
+  --color-custom-mafia-white: #F5F5F5;
+  --color-custom-mafia-accent: #B3261E;
+
+  --font-custom-mafia: "Oswald", sans-serif;
+  --font-custom-noir: "Roboto Slab", serif;
+}
+
+
+
+/* 🔥 Custom Prose Mafia Noir */
+.prose {
+  @apply text-custom-mafia-light font-custom-noir;
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  @apply text-custom-mafia-white font-custom-mafia;
+}
+
+.prose strong {
+  @apply text-custom-mafia-accent;
+}
+
+.prose a {
+  @apply text-custom-mafia-accent underline hover:text-custom-mafia-white;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-custom-mafia-accent italic text-custom-mafia-light;
+}
+
+.prose code {
+  @apply bg-custom-mafia-dark text-custom-mafia-accent px-1 py-0.5 rounded;
+}
+
+.prose pre {
+  @apply bg-custom-mafia-dark text-custom-mafia-light p-4 rounded-lg overflow-x-auto;
+}
+
+.prose hr {
+  @apply border-custom-mafia-gray;
+}
+
+.prose ul > li::marker {
+  color: theme(--color-custom-mafia-accent);
+}
+
+.prose ol > li::marker {
+  color: theme(--color-custom-mafia-accent);
+}
