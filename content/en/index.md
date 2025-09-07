@@ -29,10 +29,7 @@ They grow uneasy, aware someone dares to challenge them.
 ## **Encounter with Mini Boss 1 – “The Prodigy”**
 
 The Ruviero mafia doesn’t stay idle.  
-They send **Diego Ruviero**, the golden child of the mafia family, 17 years old.
-
-- Diego is a **talented young assassin**: expert sniper, skilled with throwing knives, and a ruthless stalker.
-- Despite his youth, he is known as a **family pride symbol**. Citizens see him as a child prodigy supporting social foundations—though he is a killing machine raised by the mafia.
+They send **Diego Ruviero**, the golden child of the mafia family, 17 years old. Diego is a **talented young assassin**: expert sniper, skilled with throwing knives, and a ruthless stalker. Despite his youth, he is known as a **family pride symbol**. Citizens see him as a child prodigy supporting social foundations—though he is a killing machine raised by the mafia.
 
 ### **Unique Gameplay: Diego as the Hunter**
 

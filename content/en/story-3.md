@@ -4,129 +4,133 @@
 
 ## 🎭 Overview
 
-The Revolutionary Faction was born from **the anger of the common people**: activists, students, laborers, families of mafia victims, even war veterans disappointed with the government and authorities. They call themselves the true voice of the people. Their slogan is:
+The Revolutionary Faction was born from **the anger of the common people**: activists, students, workers, families of mafia victims, and even war veterans disappointed with the government and authorities. They call themselves the true voice of the people. Their slogan is:
 
 > **“Better the city burns than live under the mafia.”**
 
-They see the protagonist as a **symbol of the oppressed**. Every move the player makes becomes propaganda to fuel the masses. But gradually, the player realizes: this revolution isn’t purely for the people—it’s driven by revenge, power, and ideology as harsh as mafia tyranny.
+They see the protagonist as a **symbol of the oppressed**, and every player action is turned into propaganda. However, the player gradually realizes that this revolution is not just for the people—it’s also about revenge, power, and an ideology as extreme as the mafia’s tyranny.
 
 ---
 
-## 🔪 Mini Boss Flow
+## 🎯 Role of the Revolutionaries in Mini Boss Battles
+
+The Revolutionaries use methods different from other paths, emphasizing **crowds, disruption, and psychological pressure**, which affects gameplay:
+
+1. **Lucia "The Iron Widow" (Brawler)**
+
+   - The Revolutionaries deploy **armed civilians** to distract hired thugs in the arena.
+   - Provide **underground port routes** for stealth or encirclement.
+   - Gameplay: Players can choose stealth via tunnels, use the crowd for distraction, or face Lucia head-on in the arena.
+
+2. **Elena "The Black Veil" (Spy)**
+
+   - Cause **street riots** to disrupt Elena’s henchmen and reduce their focus.
+   - Provide **insider information from minor traitors within Elena’s group** to ease infiltration.
+   - Gameplay: Players can use chaos for stealth, lure Elena into traps, or attack directly during the turmoil.
+
+3. **Viktor "The Hound" (Executioner)**
+
+   - Revolutionaries storm from outside the underground prison, forcing Viktor to split attention between Alex and the crowd.
+   - Use **improvised tools** to disable mechanical traps and confuse Viktor.
+   - Gameplay: Players can exploit chaos, counter-traps, or direct confrontation.
 
 ---
 
-### 1. **Brawler Mini Boss – “Bloody Rosa”**
+## Mini Boss 2 – **Lucia "The Iron Widow"** (Brawler)
 
-- **Character**: Former female street fighter, nicknamed "Bloody Rosa." Her body is covered in tattoos, and her voice is hoarse from shouting orders to thugs. She controls a mafia training warehouse, where henchmen are forged into war machines.
-- **Location**: **Slum district – Training warehouse**, transformed into a gladiator arena. Walls covered in threatening graffiti, floor stained with old blood.
-- **Revolutionary Role**:
+- **Character**
+  Lucia is a brutal woman, formerly a street fighter. She lost her husband to mafia gambling and was forced to work for them to survive. Her body is full of old scars, and she wields a heavy iron mace.
+  She symbolizes the raw strength of the Ruviero family and is assigned as a **human barrier** for their illegal fighting business.
 
-  - They infiltrate the player via underground tunnels once used by dock workers.
-  - Provide support through **armed masses of citizens** (Molotovs, iron pipes, machetes). Their chaos creates openings for the player.
+- **Location**
+  Secret training warehouse on the city outskirts, where people are forced to fight to the death for underground betting and entertainment.
 
-- **Fight**:
+- **Battle**
+  Players can choose stealth via underground tunnels, use the Revolutionary crowd for distraction, or fight directly.
 
-  - Bloody Rosa fights brutally with heavy iron weapons and bare hands.
-  - Loyal thugs join the battle, cheering, like modern gladiators.
+- **Final Dialogue**
 
-- **Last Words**:
+  > _"I fight… to survive… you are just a pawn… like me… but a pawn like me can choose to die with a clenched fist."_
 
-  > _“Your people cheer for my blood… but wait. One day, your blood will be their spectacle too.”_
-
----
-
-### 2. **Spy Mini Boss – “Silken Veil”**
-
-- **Character**: Mysterious woman, former government information agent turned mafia informant. Expert in deceit, always speaks with a seductive tone.
-- **Location**: **Luxury mafia nightclub** — neon lights, mirrors, hidden corridors. A hub for information exchange and deception.
-- **Revolutionary Role**:
-
-  - They create major street chaos, burning vehicles and attacking mafia posts to distract authorities.
-  - Player can infiltrate the club while attention is outside.
-  - However, the player witnesses the **dark side of the revolutionaries**: many civilians are caught in the chaos they caused.
-
-- **Fight**:
-
-  - Silken Veil uses electronic traps (strobe lights, fake alarms, sleeping gas).
-  - She disguises herself as dancers or waitstaff, making it hard for the player to identify her.
-
-- **Last Words**:
-
-  > _“You think killing the informant makes this city free? No. You are only blind now… and they will close your eyes forever.”_
+- **After Defeat**
+  Revolutionaries cheer, praising the player as a symbol of the people. However, they start showing radical tendencies: **willing to sacrifice anyone for ideological victory**.
 
 ---
 
-### 3. **Executioner Mini Boss – “The Red Inquisitor”**
+## Mini Boss 3 – **Elena "The Black Veil"** (Spy)
 
-- **Character**: Cruel executioner feared among mafia circles, nicknamed "The Red Inquisitor." Believes that pain is the purest truth. Scarred body, eyes sharp like a predator.
-- **Location**: **Hidden mafia underground prison**, formerly used to torture mafia opponents. Rusted walls, the smell of blood mixed with iron is pungent.
-- **Revolutionary Role**:
+- **Character**
+  Elena is a cunning woman. Formerly a government informant, she betrayed them by selling intel to the Twins. Smart and slippery, she is known for staying **three steps ahead** of her enemies. Elena masterminds many clean mafia operations without leaving a trace.
 
-  - They mobilize citizens to storm the prison from outside, causing massive chaos.
-  - Player witnesses **revolutionaries capturing young mafia henchmen**, intending to torture them back cruelly.
-  - Player realizes revenge has blinded them.
+- **Location**
+  Luxury casino in the city center, full of electronic traps and disguised henchmen.
 
-- **Fight**:
+- **Battle**
+  Riot chaos created by the Revolutionaries disrupts Elena’s henchmen. Players can use the chaos for stealth, trap luring, or frontal assault.
 
-  - Red Inquisitor wields hot chains, torches, and torture tools as weapons.
-  - Cramped arena filled with execution traps (electric chairs, cutters, gas).
+- **Final Dialogue**
 
-- **Last Words**:
+  > _"Heh… information is the most valuable currency. I know everything… including who you really are. Too bad… now that secret is buried with me."_
 
-  > _“I use fear to keep the city in check. You? You use hatred. The difference is small… and you already stand on my side.”_
-
----
-
-## ⚖️ Consequences After Mini Bosses
-
-After the three mini bosses fall, the Revolutionaries celebrate the player as a **people’s hero**. The player’s face is displayed on city murals, becoming a propaganda icon.
-
-But behind the celebration:
-
-- They grow more radical, forcing citizens to join or be labeled traitors.
-- Civilian casualties rise, considered a “price worth paying.”
-- They pressure the player to lead a **total revolution** — not just against the Twin Mafia, but also against anyone opposing their ideology.
-
-The player realizes: **this revolution doesn’t bring peace, only a new tyranny fueled by revenge.**
+- **After Defeat**
+  Revolutionaries intensify propaganda. The player realizes: **they are using his name for their own agenda, not true liberation**.
 
 ---
 
-## 🚪 Player Choices
+## Mini Boss 4 – **Viktor "The Hound"** (Executioner)
+
+- **Character**
+  Viktor is the legendary executioner of the Ruviero family, known for hunting targets to the ends of the earth. Nicknamed **“The Hound”** because his killing instinct is like a hunting dog: once he smells blood, he never stops until the target is dead.
+  He was once a government executioner before being sold to the mafia.
+
+- **Location**
+  Hidden underground prison, narrow corridors full of execution traps.
+
+- **Battle**
+  Revolutionaries storm from outside, creating chaos. Players can exploit the crowd, counter-traps, or fight directly. Gameplay is more **dynamic and high-pressure**.
+
+- **Final Dialogue**
+
+  > _"You think killing me… ends everything? Heh… the Twins have already prepared hell for you… and I’ll be waiting there."_
+
+- **After Defeat**
+  Revolutionaries seize the city as the people’s symbol, but the cost of power is **a new tyranny fueled by revenge**.
 
 ---
 
-### 1. **Stay Allied**
+## ⚖️ Player Choices
 
-- Player accepts the role as the symbol of the revolution.
-- The city falls into a new era of riots, propaganda, and citizen violence.
-- Mafia is defeated, but the cost is the city’s destruction.
+### 1. **Stay and Join**
 
-**Ending**:  
-_Player stands on a stage in the central square, surrounded by shouting crowds. A large banner with the player’s face stretches behind. The revolutionary leader whispers: “Now you are the face of the people… and their weapon.” Then the screen fades to black, only the cheers and wild screams remain._
+- Player accepts the role as a symbol of the revolution.
+- The city falls into a new era of riots, propaganda, and violent civil action.
+- The mafia may be defeated, but the cost is the city’s destruction.
+
+**Ending**:
+_Player stands on a stage in the main square, surrounded by a crowd shouting his name. A giant banner with the player’s face hangs behind. The revolutionary leader whispers: “Now you are the face of the people… and their weapon.” Fade to black, with only cheers mixed with wild shouts._
 
 ---
 
 ### 2. **Leave**
 
-- Player refuses to be a propaganda tool.
-- Revolutionaries are enraged, calling the player a traitor.
-- New propaganda appears on city walls: posters labeling the player **“Mafia Puppet”** or **“Traitor to the People.”**
+- Player refuses to become a propaganda tool.
+- Revolutionaries are enraged, labeling the player a traitor.
+- New propaganda appears across the city: posters of the player reading **“Mafia’s Pawn”** or **“People’s Traitor.”**
 - Player can still pursue the Twin Mafia, but without their support.
 
-**Ending**:  
-_Player walks down a dark alley, seeing murals of their own face defaced with red paint. From afar, a revolutionary loudspeaker shouts: “Traitors will be punished by the people!” Player bows their head and walks away alone._
+**Ending**:
+_Player walks through dark alleys, seeing murals of his own face defaced with red paint. In the distance, revolutionary loudspeakers shout: “Traitors will be judged by the people!” Player lowers his head and walks away alone._
 
 ---
 
-### 3. **Destroy Them**
+### 3. **Destroy**
 
-- Player assaults their main base — e.g., **an old university** they control as a propaganda hub.
-- Brutal battle, full of angry crowds, burning posters, torn banners.
-- Revolutionary faction is destroyed, but citizens’ anger remains. The city descends into chaotic riots without direction.
+- Player raids their headquarters—such as an **old university** used as a propaganda center.
+- Brutal battle, full of angry crowds, burning posters, and torn flags.
+- Revolutionary faction collapses, but the people’s anger remains. The city descends into chaotic riots without direction.
 
-**Ending**:  
-_Player stands in the middle of the burning old university hall. Around them, piles of revolutionary pamphlets turn to ashes. Outside, the masses continue to scream in anger. Player looks through a cracked window and whispers: “This anger cannot be killed… only redirected.”_
+**Ending**:
+_Player stands amid the burning old university hall. Around him, piles of revolutionary pamphlets turn to ash. From outside, angry shouts of the crowd echo. The player gazes through a cracked window and whispers: “This anger cannot be killed… only redirected.”_
 
 ---
 

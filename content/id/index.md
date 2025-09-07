@@ -29,10 +29,7 @@ Mereka gelisah, sadar ada seseorang yang berani menantang mereka.
 ## **Pertemuan dengan Mini Boss 1 – “The Prodigy”**
 
 Mafia Ruviero tidak tinggal diam.
-Mereka mengirim **Diego Ruviero**, anak emas keluarga mafia, berusia 17 tahun.
-
-- Diego adalah **pembunuh muda berbakat**: sniper handal, ahli pisau lempar, dan penguntit yang kejam.
-- Meski masih remaja, ia terkenal sebagai **simbol kebanggaan keluarga**. Rakyat mengenalnya sebagai anak jenius yang mendukung yayasan sosial—padahal ia adalah mesin pembunuh yang dibesarkan mafia.
+Mereka mengirim **Diego Ruviero**, anak emas keluarga mafia, berusia 17 tahun. Diego adalah **pembunuh muda berbakat**: sniper handal, ahli pisau lempar, dan penguntit yang kejam. Meski masih remaja, ia terkenal sebagai **simbol kebanggaan keluarga**. Rakyat mengenalnya sebagai anak jenius yang mendukung yayasan sosial—padahal ia adalah mesin pembunuh yang dibesarkan mafia.
 
 ### **Gameplay Unik: Diego sebagai Hunter**
 

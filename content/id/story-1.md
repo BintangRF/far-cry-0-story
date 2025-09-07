@@ -12,6 +12,30 @@ Mereka licik, haus darah, dan hanya peduli pada satu hal: **kekuasaan absolut**.
 
 ---
 
+## 🎯 Peran Kelompok Mafia Saingan dalam Pertarungan Mini Boss
+
+Kelompok ini **memberi Alex berbagai keuntungan** untuk menghadapi mini boss, tapi semuanya bersifat taktikal—bukan kekuatan mutlak. Ini membuat setiap pertarungan **unik tergantung pilihan player**:
+
+1. **Lucia "The Iron Widow"** (Tukang Pukul)
+
+   - Mafia Saingan menyediakan **intel tentang lokasi jebakan dan rute tersembunyi** di arena.
+   - Alex bisa menggunakan **preman bayaran yang setengah loyal** sebagai gangguan sementara, mengalihkan perhatian Lucia.
+   - Gameplay: Pemain dapat memilih untuk menyelinap, menyerang frontal dengan bantuan gangguan, atau kombinasi keduanya.
+
+2. **Elena "The Black Veil"** (Mata-mata)
+
+   - Mafia Saingan memberi **akses ke identitas anak buah Elena** yang menyamar, serta **kode sinyal kamera pengintai** di kasino.
+   - Alex bisa memanfaatkan informasi ini untuk **menghindari jebakan elektronik**, memancing Elena keluar dari persembunyian.
+   - Gameplay: Pemain dapat menggunakan strategi stealth atau menyerang dengan intel untuk memaksa pertarungan lebih cepat.
+
+3. **Viktor "The Hound"** (Eksekutor)
+
+   - Mafia Saingan menyediakan **peta penjara bawah tanah** dan **alat sederhana** untuk menonaktifkan jebakan.
+   - Alex dapat memanfaatkan jebakan lawan untuk memukul balik, atau memanfaatkan lorong sempit untuk mengecoh Viktor.
+   - Gameplay: Pemain bisa memilih cara agresif langsung menghadapi Viktor, atau menggunakan rute rahasia dan jebakan untuk memenangkannya dengan risiko lebih kecil.
+
+---
+
 ## Mini Boss 2 – **Lucia "The Iron Widow"** (Tukang Pukul)
 
 - **Karakter**
@@ -19,10 +43,10 @@ Mereka licik, haus darah, dan hanya peduli pada satu hal: **kekuasaan absolut**.
   Lucia adalah simbol kekuatan kasar keluarga Ruviero—ia ditugaskan untuk menjadi **pagar hidup** yang menjaga bisnis pertarungan ilegal mereka.
 
 - **Lokasi**
-  Gudang pelatihan rahasia di pinggiran kota, tempat orang-orang dipaksa bertarung hingga mati untuk hiburan dan taruhan gelap. Penonton adalah preman, bandar, dan orang-orang kelas atas yang membayar mahal untuk tontonan ini.
+  Gudang pelatihan rahasia di pinggiran kota, tempat orang-orang dipaksa bertarung hingga mati untuk hiburan dan taruhan gelap.
 
 - **Pertarungan**
-  Arena berdarah penuh sorakan. Lucia tidak bertarung sendirian—penonton bayaran ikut menyerang Alex dari pinggir arena, melempar botol, kursi, bahkan turun langsung. Lucia sendiri adalah lawan yang brutal, menyerang dengan gaya **penuh amarah**, setiap pukulannya bisa menghancurkan tulang.
+  Arena berdarah penuh sorakan. Lucia tidak bertarung sendirian—penonton bayaran ikut menyerang Alex. Setiap pukulannya bisa menghancurkan tulang.
 
 - **Dialog Terakhir**
 
@@ -39,19 +63,18 @@ Mereka licik, haus darah, dan hanya peduli pada satu hal: **kekuasaan absolut**.
   Elena adalah wanita penuh tipu daya. Dahulu ia adalah informan pemerintah, tapi berkhianat dan menjual informasi kepada Kembar. Ia cerdas, licin, dan dikenal selalu **tiga langkah di depan** musuh-musuhnya. Elena adalah otak di balik banyak operasi mafia yang bersih tanpa jejak.
 
 - **Lokasi**
-  Kasino mewah di pusat kota—tempat penuh cahaya neon, cermin, dan pengawasan ketat. Di balik kemewahan itu, kasino adalah pusat pengendalian jaringan mata-mata dan pemerasan.
+  Kasino mewah di pusat kota, penuh jebakan elektronik dan anak buah menyamar.
 
 - **Pertarungan**
-  Pertempuran lebih berbasis strategi. Elena bukan petarung fisik, tapi ia menguasai **jebakan**, kamera pengintai, serta anak buah yang menyamar sebagai pengunjung kasino. Ia bahkan menyamar sendiri untuk mengecoh pemain, memaksa Alex membedakan mana musuh nyata dan mana tipuan.
+  Strategi, jebakan elektronik, anak buah yang menyamar. Alex harus membedakan mana musuh asli dan mana tipuan.
 
 - **Dialog Terakhir**
 
   > _"Heh… informasi adalah mata uang paling berharga. Aku tahu semuanya… termasuk siapa kau sebenarnya. Sayang… sekarang rahasia itu terkubur bersamaku."_
 
 - **Setelah Kalah**
-  Mafia Saingan memperingatkan Alex dengan nada dingin:
+  Mafia Saingan memperingatkan Alex:
   _“Kalau Elena bisa tahu semua rahasiamu, orang lain juga bisa. Jangan pernah percaya siapapun—bahkan kami.”_
-  Sebuah peringatan samar bahwa mereka pun mungkin akan mengkhianati Alex suatu saat nanti.
 
 ---
 
@@ -62,17 +85,17 @@ Mereka licik, haus darah, dan hanya peduli pada satu hal: **kekuasaan absolut**.
   Ia pernah menjadi eksekutor pemerintah lama, sebelum dijual ke mafia.
 
 - **Lokasi**
-  Penjara bawah tanah rahasia yang dijadikan tempat eksekusi. Lorong-lorong sempit dipenuhi sisa-sisa mayat dan alat penyiksaan: kursi listrik, ruangan gas, besi panas.
+  Penjara bawah tanah rahasia, lorong sempit penuh jebakan eksekusi.
 
 - **Pertarungan**
-  Arena sempit, claustrophobic. Viktor menggunakan kapak besar yang bisa mematahkan pertahanan Alex dalam satu tebasan. Ia juga memanfaatkan jebakan penjara untuk memojokkan Alex, menjadikan pertarungan penuh tekanan.
+  Viktor menggunakan kapak besar, memanfaatkan lorong sempit dan jebakan penjara.
 
 - **Dialog Terakhir**
 
   > _"Kau pikir menghancurkan aku… berarti akhir dari semuanya? Heh… Kembar sudah menyiapkan neraka untukmu… dan aku akan menunggumu di sana."_
 
 - **Setelah Kalah**
-  Mafia Saingan bersorak, mengatakan bahwa jalan kini terbuka lebar menuju para Kembar. Namun di balik kegembiraan mereka, wajah asli mulai terlihat: **mereka tidak ingin kebebasan kota, mereka hanya ingin menggantikan posisi Ruviero.**
+  Mafia Saingan bersorak, tapi ambisi mereka terlihat jelas: **menggantikan posisi Ruviero, bukan membebaskan kota.**
 
 ---
 

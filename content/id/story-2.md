@@ -10,83 +10,93 @@ Mereka memanfaatkan player sebagai alat untuk menghancurkan para loyalis Kembar.
 
 ---
 
-## 🔪 Alur dengan Mini Boss
+## 🎯 Peran Kelompok Pemerintah Lama dalam Pertarungan Mini Boss
+
+Kelompok ini memiliki keahlian dan sumber daya berbeda dibanding Mafia Saingan, sehingga pertarungan mini boss bisa dihadapi dengan cara yang lebih **strategis dan teknologi tinggi**:
+
+1. **Lucia "The Iron Widow" (Tukang Pukul)**
+
+   - Pemerintah Lama menyediakan **intel lokasi arena dan jalur ventilasi** untuk menghindari preman bayaran.
+   - Mengirim **tim sniper atau drone pengalih perhatian** agar Alex bisa fokus menyerang Lucia.
+   - Gameplay: Pemain dapat memilih stealth menggunakan ventilasi, mengalihkan preman bayaran, atau serangan frontal dengan bantuan drone.
+
+2. **Elena "The Black Veil" (Mata-mata)**
+
+   - Memberikan **akses ke CCTV dan kode akses kasino**, memudahkan Alex menghindari jebakan.
+   - Memberikan **dokumen rahasia tentang anak buah Elena** sehingga bisa dilacak atau dilemahkan.
+   - Gameplay: Pemain bisa memilih stealth, hacking, atau manipulasi anak buah untuk menghadapi Elena.
+
+3. **Viktor "The Hound" (Eksekutor)**
+
+   - Menyediakan **peta lorong penjara dan blueprint jebakan** untuk menghindari serangan mematikan.
+   - Memberikan **alat sederhana** untuk menonaktifkan perangkap mekanik.
+   - Gameplay: Pemain bisa memanfaatkan jebakan lawan, memancing Viktor ke posisi tertentu, atau menghadapi dengan cara agresif.
 
 ---
 
-### 1. **Mini Boss Tukang Pukul – “The Iron Matron”**
+## Mini Boss 2 – **Lucia "The Iron Widow"** (Tukang Pukul)
 
-- **Karakter**: Mantan atlet bela diri yang direkrut mafia sebagai kepala logistik senjata. Ia mengendalikan distribusi senjata curian dari aparat lama. Sosoknya garang, penuh luka bakar dan bekas pertempuran.
-- **Lokasi**: Distrik kumuh yang disulap jadi **arena gladiator** tempat orang miskin dipaksa bertarung.
-- **Peran Pemerintah Lama**:
+- **Karakter**
+  Lucia adalah wanita brutal yang dulunya petarung jalanan. Ia kehilangan suaminya karena perjudian mafia, lalu dipaksa bekerja untuk mereka agar bisa bertahan hidup. Tubuhnya penuh luka lama, tangannya menggenggam gada besi berat.
+  Ia simbol kekuatan kasar keluarga Ruviero, ditugaskan menjadi **pagar hidup**.
 
-  - Memberi player dokumen transaksi lama antara aparat dan mafia, yang membuktikan bahwa Iron Matron adalah simpul utama logistik.
-  - Memberi kendaraan lapis baja bekas militer untuk menerobos arena.
+- **Lokasi**
+  Gudang pelatihan rahasia di pinggiran kota, tempat orang-orang dipaksa bertarung hingga mati untuk hiburan dan taruhan gelap.
 
-- **Pertarungan**:
+- **Pertarungan**
+  Arena berdarah penuh sorakan. Lucia tidak bertarung sendirian—penonton bayaran ikut menyerang Alex. Setiap pukulannya bisa menghancurkan tulang.
 
-  - Arena penuh penonton bayaran yang ikut menyerang player.
-  - Iron Matron bertarung brutal dengan senjata berat dan tangan kosong.
+- **Dialog Terakhir**
 
-- **Dialog Terakhir**:
+  > _"Aku berjuang… demi bertahan hidup… kau hanya pion… seperti aku… tapi pion sepertiku bisa memilih mati dengan kepalan tangan."_
 
-  > _“Kau pikir aparat lamamu lebih baik? Mereka menjual senjata pada kami. Aku hanya pion… dan kini kau juga pion. Bedanya, aku memilih mati dengan kepalan tangan!”_
-
----
-
-### 2. **Mini Boss Mata-Mata – “The Velvet Whisper”**
-
-- **Karakter**: Mantan informan pemerintah yang membelot ke Mafia Kembar. Cerdas, manipulatif, penuh tipu daya.
-- **Lokasi**: **Klub malam mewah** yang dipenuhi layar, CCTV, dan ruang rahasia. Tempat ini adalah sarang jaringan informannya.
-- **Peran Pemerintah Lama**:
-
-  - Memberi player akses ke **sistem pengawasan lama kota** (CCTV, jalur kabel tersembunyi).
-  - Memberikan clearance khusus agar player bisa menyelinap lewat pintu belakang resmi aparat.
-
-- **Pertarungan**:
-
-  - Velvet Whisper memanipulasi pencahayaan, rekaman suara, dan penyamaran.
-  - Player sulit membedakan mana dirinya, mana umpan, mana sekutu palsu.
-
-- **Dialog Terakhir**:
-
-  > _“Mereka dulu pakai mataku untuk mengawasi mafia. Sekarang mereka pakai matamu untuk menghancurkan aku. Besok? Mereka akan mencungkil matamu juga.”_
+- **Setelah Kalah**
+  Pemerintah Lama memuji Alex, tapi menekankan bahwa **Alex hanyalah alat mereka**.
 
 ---
 
-### 3. **Mini Boss Eksekutor – “The Chainsman”**
+## Mini Boss 3 – **Elena "The Black Veil"** (Mata-mata)
 
-- **Karakter**: Algojo lama yang direkrut mafia. Senang menyiksa tahanan, percaya bahwa “rasa sakit adalah bahasa paling jujur.”
-- **Lokasi**: **Penjara bawah tanah** milik mafia, dulunya fasilitas interogasi aparat lama.
-- **Peran Pemerintah Lama**:
+- **Karakter**
+  Elena adalah wanita penuh tipu daya. Dahulu ia adalah informan pemerintah, tapi berkhianat dan menjual informasi kepada Kembar. Ia cerdas, licin, dan dikenal selalu **tiga langkah di depan** musuh-musuhnya. Elena adalah otak di balik banyak operasi mafia yang bersih tanpa jejak.
 
-  - Memberi blueprint penjara, dengan catatan: “Bebaskan atau bunuh semua yang ada di sana.”
-  - Motif mereka jelas — banyak tahanan hanyalah rakyat kecil, tapi mereka ingin semuanya hilang sebagai saksi buruk masa lalu.
+- **Lokasi**
+  Kasino mewah di pusat kota, penuh jebakan elektronik dan anak buah menyamar.
 
-- **Pertarungan**:
+- **Pertarungan**
+  Alex dapat memanfaatkan CCTV, kode akses, dan dokumen intel dari Pemerintah Lama untuk menghadapi Elena. Pilihan: stealth, hacking, atau manipulasi anak buah.
 
-  - Chainsman menggunakan rantai berat, ruang penyiksaan sempit, dan jebakan eksekusi.
-  - Player harus bertarung sambil menghindari jebakan (kursi listrik, gas, besi panas).
+- **Dialog Terakhir**
 
-- **Dialog Terakhir**:
+  > _"Heh… informasi adalah mata uang paling berharga. Aku tahu semuanya… termasuk siapa kau sebenarnya. Sayang… sekarang rahasia itu terkubur bersamaku."_
 
-  > _“Aku hanya alat. Sama seperti kau. Bedanya, aku tahu siapa yang menarik rantai ini. Kau bahkan tidak sadar siapa yang menggenggam rantaimu.”_
-
----
-
-## ⚖️ Konsekuensi Setelah Mini Boss
-
-Dengan bantuan kelompok Pemerintah Lama, tiga simpul loyalis Mafia Kembar runtuh. Tapi kemenangan ini beracun:
-
-- Dokumen bukti yang dijanjikan untuk membongkar mafia justru **dibakar**, agar jejak korupsi lama mereka tak terungkap.
-- Mereka menekan player untuk menjadi **eksekutor bayangan** mereka.
-- Rakyat mulai berbisik, bertanya-tanya apakah player benar-benar pembebas… atau alat penguasa lama yang kembali.
+- **Setelah Kalah**
+  Pemerintah Lama mengingatkan Alex bahwa **mereka semua memata-matai dan mengontrol**, termasuk dirinya.
 
 ---
 
-## 🚪 Pilihan Player
+## Mini Boss 4 – **Viktor "The Hound"** (Eksekutor)
+
+- **Karakter**
+  Viktor adalah algojo legendaris keluarga Ruviero, dikenal karena memburu targetnya sampai ujung dunia. Dijuluki **“The Hound”** karena insting membunuhnya seperti anjing pemburu: sekali mencium darah, tak akan berhenti sampai target mati.
+  Ia pernah menjadi eksekutor pemerintah lama, sebelum dijual ke mafia.
+
+- **Lokasi**
+  Penjara bawah tanah rahasia, lorong sempit penuh jebakan eksekusi.
+
+- **Pertarungan**
+  Pemain dapat menggunakan blueprint jebakan, rute rahasia, dan alat dari Pemerintah Lama. Pilihan strategi: memancing, jebakan balik, atau pertempuran langsung.
+
+- **Dialog Terakhir**
+
+  > _"Kau pikir menghancurkan aku… berarti akhir dari semuanya? Heh… Kembar sudah menyiapkan neraka untukmu… dan aku akan menunggumu di sana."_
+
+- **Setelah Kalah**
+  Pemerintah Lama menekankan kontrol penuh atas kota. Alex menyadari mereka bukan pembebas, hanya wajah baru dari korupsi lama.
 
 ---
+
+## ⚖️ Pilihan Player
 
 ### 1. **Tetap Bergabung**
 

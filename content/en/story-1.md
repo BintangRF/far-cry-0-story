@@ -4,111 +4,134 @@
 
 ### 🎭 Overview
 
-The **Rival Mafia Group** is an old gang that once ruled Valdoro before being overthrown by the **Ruviero Twins**. They lost power, forced to hide in the city’s shadows, and have been waiting for a chance to rise again.
+The **Rival Mafia** is an old gang that once ruled Valdoro before being defeated by the **Ruviero Twins**. They lost their power, forced to hide in the shadows of the city, waiting for a chance to rise again.
 
-For them, Alex’s appearance is an **unexpected gift**: a stranger capable of hurting the Twins, something they themselves could never do.
+For them, Alex’s arrival is an **unexpected blessing**: a stranger capable of injuring the Twins, something they themselves could not do.
 
-They are cunning, bloodthirsty, and care about only one thing: **absolute power**. Joining them means entering a world of mafia political intrigue, betrayal, territorial battles, and ruthless tactics.
+They are cunning, bloodthirsty, and care about only one thing: **absolute power**. Joining them means entering a world full of political intrigue, betrayal, territory wars, and dirty tactics.
+
+---
+
+## 🎯 Role of the Rival Mafia in Mini Boss Battles
+
+This faction **provides Alex with advantages** to face the mini bosses, but everything is tactical—not absolute power. This makes each fight **unique depending on the player’s choice**:
+
+1. **Lucia "The Iron Widow"** (Brawler)
+
+   - Rival Mafia provides **intel on trap locations and hidden routes** in the arena.
+   - Alex can use **half-loyal hired thugs** as temporary distractions, drawing Lucia’s attention.
+   - Gameplay: Players can choose to sneak, attack head-on with distractions, or combine both.
+
+2. **Elena "The Black Veil"** (Spy)
+
+   - Rival Mafia grants **access to Elena’s disguised henchmen** and **camera signal codes** in the casino.
+   - Alex can use this information to **avoid electronic traps**, forcing Elena out into the open.
+   - Gameplay: Players can use stealth or leverage intel for a faster confrontation.
+
+3. **Viktor "The Hound"** (Executioner)
+
+   - Rival Mafia provides **maps of the underground prison** and **simple tools** to disable traps.
+   - Alex can turn the enemy’s traps against them or use narrow corridors to outsmart Viktor.
+   - Gameplay: Players can choose aggressive direct confrontation or use secret paths and traps to win with less risk.
 
 ---
 
 ## Mini Boss 2 – **Lucia "The Iron Widow"** (Brawler)
 
-- **Character**  
-  Lucia is a brutal woman who was once a street fighter. She lost her husband to mafia gambling and was forced to work for them to survive. Her body bears old scars, and she wields a specially crafted iron mace, almost impossible for a normal person to lift.  
-  Lucia symbolizes the raw strength of the Ruviero family—assigned as a **human barrier** guarding their illegal fight operations.
+- **Character**
+  Lucia is a brutal woman, formerly a street fighter. She lost her husband to gambling mafia schemes and was forced to work for them to survive. Her body is covered in old scars, and she wields a heavy iron mace nearly impossible for an average person to lift.
+  She represents the raw strength of the Ruviero family—assigned as a **human barrier** guarding their illegal fighting business.
 
-- **Location**  
-  Secret training warehouse on the outskirts of the city, where people are forced to fight to the death for entertainment and underground betting. The audience consists of thugs, bookies, and high-paying elites.
+- **Location**
+  Secret training warehouse on the city outskirts, where people are forced to fight to the death for entertainment and underground betting.
 
-- **Fight**  
-  A blood-soaked arena full of cheers. Lucia doesn’t fight alone—the paying audience attacks Alex from the sidelines, throwing bottles, chairs, and sometimes joining the fight. Lucia herself is brutal, attacking with **pure rage**, each strike capable of breaking bones.
+- **Battle**
+  Blood-soaked arena full of cheering spectators. Lucia doesn’t fight alone—paid onlookers attack Alex. Every strike can shatter bones.
 
-- **Last Words**
+- **Final Dialogue**
 
-  > _"I fight… to survive… you’re just a pawn… like me… but a pawn like me can choose to die with a clenched fist."_
+  > _"I fight… to survive… you are just a pawn… like me… but a pawn like me can choose to die with a clenched fist."_
 
-- **After Defeat**  
-  The Rival Mafia praises Alex, calling it a major first step in **destroying the Twins’ loyalists**. They grow more confident that Alex is their tool to reclaim the city.
+- **After Defeat**
+  Rival Mafia praises Alex, calling this a major step in **destroying the Ruviero loyalists**. They begin trusting Alex as a tool to reclaim the city.
 
 ---
 
 ## Mini Boss 3 – **Elena "The Black Veil"** (Spy)
 
-- **Character**  
-  Elena is a woman full of deceit. She was once a government informant but betrayed and sold information to the Twins. She is intelligent, slippery, and always **three steps ahead** of her enemies. Elena is the mastermind behind many mafia operations executed cleanly and without a trace.
+- **Character**
+  Elena is a deceptive woman. Once a government informant, she betrayed them to sell intelligence to the Twins. Smart and slippery, she is known for always staying **three steps ahead** of her enemies. Elena is the mastermind behind many clean mafia operations, leaving no trace.
 
-- **Location**  
-  Luxury casino in the city center—filled with neon lights, mirrors, and heavy surveillance. Behind the glamour, the casino serves as a hub for espionage networks and blackmail operations.
+- **Location**
+  Luxury casino in the city center, full of electronic traps and disguised henchmen.
 
-- **Fight**  
-  A strategy-focused battle. Elena is not a physical fighter but controls **traps**, surveillance cameras, and minions disguised as casino patrons. She even disguises herself to confuse Alex, forcing him to distinguish real enemies from decoys.
+- **Battle**
+  Strategy, electronic traps, and disguised henchmen. Alex must distinguish the real enemies from illusions.
 
-- **Last Words**
+- **Final Dialogue**
 
-  > _"Heh… information is the most valuable currency. I know everything… including who you really are. Too bad… now that secret dies with me."_
+  > _"Heh… information is the most valuable currency. I know everything… including who you really are. Too bad… now that secret is buried with me."_
 
-- **After Defeat**  
-  The Rival Mafia warns Alex coldly:  
-  _“If Elena could know all your secrets, others could too. Never trust anyone—even us.”_  
-  A subtle warning that they might betray Alex one day.
+- **After Defeat**
+  Rival Mafia warns Alex:
+  _“If Elena can know all your secrets, so can others. Never trust anyone—even us.”_
 
 ---
 
 ## Mini Boss 4 – **Viktor "The Hound"** (Executioner)
 
-- **Character**  
-  Viktor is the legendary executioner of the Ruviero family, known for hunting his targets to the ends of the earth. Nicknamed **“The Hound”**, his killing instinct is like a hunting dog: once he smells blood, he won’t stop until the target is dead.  
-  He was once an executioner for the old government before being sold to the mafia.
+- **Character**
+  Viktor is the legendary executioner of the Ruviero family, known for hunting targets to the ends of the earth. Nicknamed **“The Hound”** because his killing instinct is like a hunting dog: once he smells blood, he never stops until the target is dead.
+  He was once a government executioner before being sold to the mafia.
 
-- **Location**  
-  Secret underground prison turned execution chamber. Narrow corridors filled with corpses and torture devices: electric chairs, gas rooms, heated irons.
+- **Location**
+  Hidden underground prison, narrow corridors filled with execution traps.
 
-- **Fight**  
-  A claustrophobic, tight arena. Viktor wields a massive axe capable of breaking Alex’s defenses in a single blow. He also uses prison traps to corner Alex, making the fight extremely tense.
+- **Battle**
+  Viktor wields a massive axe, using narrow passages and prison traps to his advantage.
 
-- **Last Words**
+- **Final Dialogue**
 
-  > _"You think destroying me… means the end of everything? Heh… the Twins have already prepared hell for you… and I’ll be waiting there."_
+  > _"You think killing me… ends everything? Heh… the Twins have already prepared hell for you… and I’ll be waiting there."_
 
-- **After Defeat**  
-  The Rival Mafia cheers, claiming the path toward the Twins is now wide open. Yet behind their excitement, their true faces show: **they don’t want the city’s freedom, only to replace the Ruviero family.**
+- **After Defeat**
+  Rival Mafia cheers, but their ambition is clear: **to replace the Ruvieros, not free the city.**
 
 ---
 
 # ⚖️ **Choices at the End of the Rival Mafia Path**
 
-After the three Twin loyalist mini bosses fall, the Rival Mafia finally reveals their intentions:  
-They want to **fully take back the city**, with Alex as their enforcer.
+After defeating the three mini bosses loyal to the Twins, the Rival Mafia finally reveals their true intent:
+They want **full control of the city**, with Alex as their enforcer.
 
-Players are now given the choice:
+The player is now faced with choices:
 
 ---
 
-### 1. **Stay Allied**
+### 1. **Stay and Join**
 
 - Alex accepts the Rival Mafia’s offer.
-- The city falls into their hands—more brutal, though with a different face.
-- Ending:  
-  _Player sits in a dark room with the Rival Mafia boss. They toast, discussing Valdoro’s future as a “new city” under mafia rule._
+- The city falls under their control—brutal, though with a different face.
+- **Ending**:
+  _Player sits in a dark room with the Rival Mafia bosses. They toast and discuss Valdoro’s future as a “new city” under mafia rule._
 
 ---
 
-### 2. **Walk Away (Neutral)**
+### 2. **Leave (Neutral)**
 
 - Alex refuses further involvement.
-- The Rival Mafia still takes over the city, but without Alex’s involvement.
-- Ending:  
-  _Valdoro is not completely destroyed, but rife with territorial battles and minor chaos. Alex walks away, leaving a city slowly burning._
+- Rival Mafia still takes over the city, but without Alex’s help.
+- **Ending**:
+  _Valdoro is not entirely destroyed, but filled with territorial disputes and small-scale riots. Alex walks away, leaving a city that will slowly burn._
 
 ---
 
 ### 3. **Destroy the Rival Mafia**
 
-- Alex betrays the Rival Mafia after the Twins fall.
-- Their leaders are hunted down and destroyed one by one, leaving a power vacuum.
-- Ending:  
-  _The city descends into total chaos as all criminal groups collapse. No single ruler remains, only anarchy. But for Alex, a city without a king is better… than a new king as corrupt as the old._
+- Alex betrays the Rival Mafia after the Twins are defeated.
+- Their leaders are hunted down and eliminated one by one, leaving a power vacuum.
+- **Ending**:
+  _The city descends into total chaos as all criminal factions collapse. No single ruler remains—only anarchy. For Alex, it’s better to have a city without a king… than a new corrupt ruler._
 
 ---
 

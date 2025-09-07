@@ -8,93 +8,97 @@ Kelompok Revolusioner lahir dari **amarah rakyat kecil**: aktivis, mahasiswa, bu
 
 > **“Lebih baik kota hancur, daripada hidup di bawah mafia.”**
 
-Mereka melihat tokoh utama sebagai **simbol rakyat tertindas**. Setiap langkah player dijadikan propaganda untuk membakar semangat massa. Namun perlahan player menyadari: revolusi ini bukan demi rakyat semata, melainkan demi dendam, kekuasaan, dan ideologi yang sama kerasnya dengan tirani mafia.
+Mereka melihat tokoh utama sebagai **simbol rakyat tertindas**, dan setiap langkah player dijadikan propaganda. Namun perlahan player menyadari: revolusi ini bukan demi rakyat semata, melainkan demi dendam, kekuasaan, dan ideologi yang sama kerasnya dengan tirani mafia.
 
 ---
 
-## 🔪 Alur dengan Mini Boss
+## 🎯 Peran Kelompok Revolusioner dalam Pertarungan Mini Boss
+
+Revolusioner memiliki metode berbeda dibanding jalur lain, menekankan **massa, gangguan, dan tekanan psikologis**. Ini memengaruhi gameplay:
+
+1. **Lucia "The Iron Widow" (Tukang Pukul)**
+
+   - Revolusioner mengerahkan **massa rakyat bersenjata sederhana** untuk mengalihkan perhatian preman bayaran di arena.
+   - Menyediakan **jalur bawah tanah pelabuhan** untuk menyelinap atau mengepung arena.
+   - Gameplay: Player bisa memilih stealth dengan jalur bawah tanah, menggunakan massa untuk distraksi, atau langsung menghadapi Lucia di arena.
+
+2. **Elena "The Black Veil" (Mata-mata)**
+
+   - Membuat **kerusuhan jalanan** agar anak buah Elena terganggu dan kehilangan fokus.
+   - Menyediakan **informasi internal dari pengkhianat kecil dalam kelompok Elena** untuk mempermudah infiltrasi.
+   - Gameplay: Player bisa memanfaatkan kekacauan untuk stealth, memancing Elena ke jebakan, atau menyerang frontal saat kekacauan terjadi.
+
+3. **Viktor "The Hound" (Eksekutor)**
+
+   - Revolusioner menyerbu dari luar penjara bawah tanah, memaksa Viktor membagi perhatian antara Alex dan massa.
+   - Menggunakan **peralatan improvisasi** untuk menonaktifkan perangkap mekanik dan membingungkan Viktor.
+   - Gameplay: Player bisa memanfaatkan kerusuhan, jebakan balik, atau konfrontasi langsung.
 
 ---
 
-### 1. **Mini Boss Tukang Pukul – “Bloody Rosa”**
+## Mini Boss 2 – **Lucia "The Iron Widow"** (Tukang Pukul)
 
-- **Karakter**: Mantan petarung jalanan wanita, dijuluki "Rosa Berdarah." Tubuhnya penuh tato, suaranya serak akibat sering berteriak memimpin preman. Ia menguasai gudang pelatihan mafia, tempat para preman ditempa menjadi mesin perang.
-- **Lokasi**: **Distrik kumuh – Gudang pelatihan** yang sudah disulap jadi arena gladiator. Dinding penuh grafiti ancaman, lantai bercak darah lama.
-- **Peran Revolusioner**:
+- **Karakter**
+  Lucia adalah wanita brutal yang dulunya petarung jalanan. Ia kehilangan suaminya karena perjudian mafia, lalu dipaksa bekerja untuk mereka agar bisa bertahan hidup. Tubuhnya penuh luka lama, tangannya menggenggam gada besi khusus yang beratnya hampir mustahil diangkat orang biasa.
+  Lucia adalah simbol kekuatan kasar keluarga Ruviero—ia ditugaskan untuk menjadi **pagar hidup** yang menjaga bisnis pertarungan ilegal mereka.
 
-  - Mereka menyusupkan player lewat jalur bawah tanah bekas kanal pekerja pelabuhan.
-  - Memberi dukungan lewat **massa rakyat bersenjata seadanya** (molotov, pipa besi, parang). Kerusuhan mereka menciptakan kekacauan, memberi celah player masuk.
+- **Lokasi**
+  Gudang pelatihan rahasia di pinggiran kota, tempat orang-orang dipaksa bertarung hingga mati untuk hiburan dan taruhan gelap.
 
-- **Pertarungan**:
+- **Pertarungan**
+  Pemain dapat memilih: stealth melalui jalur bawah tanah, memanfaatkan massa Revolusioner untuk distraksi, atau pertempuran langsung.
 
-  - Bloody Rosa bertarung brutal dengan senjata besi besar dan tangan kosong.
-  - Preman-preman loyal ikut bertarung sambil bersorak, seolah gladiator modern.
+- **Dialog Terakhir**
 
-- **Dialog Terakhir**:
+  > _"Aku berjuang… demi bertahan hidup… kau hanya pion… seperti aku… tapi pion sepertiku bisa memilih mati dengan kepalan tangan."_
 
-  > _“Rakyatmu bersorak karena darahku… tapi tunggu saja. Suatu hari, darahmu juga akan jadi tontonan mereka.”_
-
----
-
-### 2. **Mini Boss Mata-Mata – “Silken Veil”**
-
-- **Karakter**: Wanita misterius, mantan agen informasi pemerintah yang berbalik jadi informan mafia. Ahli tipu daya, selalu bicara dengan nada menggoda.
-- **Lokasi**: **Klub malam mewah** milik mafia — penuh lampu neon, cermin, dan lorong tersembunyi. Tempat ini pusat transaksi informasi, sekaligus arena tipu muslihat.
-- **Peran Revolusioner**:
-
-  - Mereka menciptakan kerusuhan besar di jalanan, membakar kendaraan, dan menyerang pos mafia agar aparat sibuk.
-  - Player bisa masuk klub saat semua fokus ke luar.
-  - Namun player menyaksikan **sisi kelam revolusioner**: banyak warga sipil ikut jadi korban kerusuhan yang mereka ciptakan.
-
-- **Pertarungan**:
-
-  - Silken Veil menggunakan jebakan elektronik (lampu strobo, alarm palsu, gas tidur).
-  - Ia menyamar sebagai penari atau pelayan, membuat player sulit membedakan mana dirinya.
-
-- **Dialog Terakhir**:
-
-  > _“Kau pikir menghancurkan informan membuat kota ini bebas? Tidak. Kau hanya buta sekarang… dan mereka akan menutup matamu selamanya.”_
+- **Setelah Kalah**
+  Revolusioner bersorak, memuji player sebagai simbol rakyat. Namun mereka mulai menunjukkan kecenderungan radikal: **siap mengorbankan siapa pun untuk kemenangan ideologi**.
 
 ---
 
-### 3. **Mini Boss Eksekutor – “The Red Inquisitor”**
+## Mini Boss 3 – **Elena "The Black Veil"** (Mata-mata)
 
-- **Karakter**: Algojo kejam yang terkenal di kalangan mafia. Julukannya "Inquisitor Merah." Percaya bahwa rasa sakit adalah kebenaran paling murni. Tubuhnya penuh bekas luka, matanya tajam seperti predator.
-- **Lokasi**: **Penjara bawah tanah tersembunyi mafia.** Tempat ini dulu dipakai untuk menyiksa lawan mafia. Dinding berkarat, bau darah bercampur besi menusuk hidung.
-- **Peran Revolusioner**:
+- **Karakter**
+  Elena adalah wanita penuh tipu daya. Dahulu ia adalah informan pemerintah, tapi berkhianat dan menjual informasi kepada Kembar. Ia cerdas, licin, dan dikenal selalu **tiga langkah di depan** musuh-musuhnya. Elena adalah otak di balik banyak operasi mafia yang bersih tanpa jejak.
 
-  - Mereka mengerahkan rakyat menyerbu penjara dari luar, membuat kekacauan besar.
-  - Namun di sini, player menyaksikan **revolusioner menangkap anak buah mafia yang masih muda** — dan mereka berniat menyiksa balik dengan cara sadis.
-  - Player sadar, dendam telah membutakan mereka.
+- **Lokasi**
+  Kasino mewah di pusat kota, penuh jebakan elektronik dan anak buah menyamar.
 
-- **Pertarungan**:
+- **Pertarungan**
+  Kerusuhan jalanan buatan Revolusioner mengacaukan anak buah Elena. Player bisa menggunakan kekacauan untuk stealth, jebakan, atau serangan frontal.
 
-  - Red Inquisitor menggunakan rantai panas, obor, dan alat penyiksaan sebagai senjata.
-  - Arena sempit, penuh jebakan eksekusi (kursi listrik, alat pemotong, gas).
+- **Dialog Terakhir**
 
-- **Dialog Terakhir**:
+  > _"Heh… informasi adalah mata uang paling berharga. Aku tahu semuanya… termasuk siapa kau sebenarnya. Sayang… sekarang rahasia itu terkubur bersamaku."_
 
-  > _“Aku pakai rasa takut untuk menjaga kota. Kau? Kau pakai rasa benci. Bedanya tipis… dan kau sudah berdiri di sisi yang sama denganku.”_
-
----
-
-## ⚖️ Konsekuensi Setelah Mini Boss
-
-Setelah tiga mini boss tumbang, Revolusioner merayakan player sebagai **pahlawan rakyat**. Wajah player dipasang di mural kota, dijadikan ikon propaganda.
-
-Namun di balik itu:
-
-- Mereka semakin radikal, memaksa rakyat bergabung atau dianggap pengkhianat.
-- Korban sipil meningkat, dianggap "harga yang pantas dibayar."
-- Mereka menekan player untuk memimpin **revolusi total** — bukan hanya melawan mafia kembar, tapi juga melawan siapa pun yang menentang ideologi mereka.
-
-Player mulai sadar: **revolusi ini tak membawa kedamaian, hanya tirani baru berbasis dendam.**
+- **Setelah Kalah**
+  Revolusioner semakin menekankan propaganda. Player sadar: **mereka menggunakan namanya untuk agenda sendiri, bukan pembebasan rakyat**.
 
 ---
 
-## 🚪 Pilihan Player
+## Mini Boss 4 – **Viktor "The Hound"** (Eksekutor)
+
+- **Karakter**
+  Viktor adalah algojo legendaris keluarga Ruviero, dikenal karena memburu targetnya sampai ujung dunia. Dijuluki **“The Hound”** karena insting membunuhnya seperti anjing pemburu: sekali mencium darah, tak akan berhenti sampai target mati.
+  Ia pernah menjadi eksekutor pemerintah lama, sebelum dijual ke mafia.
+
+- **Lokasi**
+  Penjara bawah tanah rahasia, lorong sempit penuh jebakan eksekusi.
+
+- **Pertarungan**
+  Revolusioner menyerbu dari luar, menimbulkan kekacauan. Player dapat memanfaatkan massa, jebakan balik, atau konfrontasi langsung. Gameplay lebih **dinamis dan penuh tekanan**.
+
+- **Dialog Terakhir**
+
+  > _"Kau pikir menghancurkan aku… berarti akhir dari semuanya? Heh… Kembar sudah menyiapkan neraka untukmu… dan aku akan menunggumu di sana."_
+
+- **Setelah Kalah**
+  Revolusioner menguasai kota sebagai simbol rakyat, tetapi harga kekuasaan adalah **tirani baru berbasis dendam**.
 
 ---
+
+## ⚖️ Pilihan Player
 
 ### 1. **Tetap Bergabung**
 
