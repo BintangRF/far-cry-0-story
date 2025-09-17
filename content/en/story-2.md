@@ -1,131 +1,188 @@
-# **Path: Corrupt Old Government Faction**
+# **Path: The Old Corrupt Government Faction**
 
 ---
 
 ## 🎭 Overview
 
-This faction consists of former officials, generals, intelligence officers, and old cronies who lost power when the Twin Mafia seized the city. They call themselves **“the city’s saviors”**, claiming to restore law and order. But the law they mean is just **old corruption**: full of bribery, nepotism, and exploiting citizens for personal gain.
+This faction consists of former officials, generals, intelligence officers, and old crony businessmen who lost their power when the Mafia Twins seized the city.
 
-They use the player as a tool to eliminate the Twins’ loyalists. But the deeper Alex works with them, the clearer it becomes that **they are just as rotten**, only wearing a different face.
+They call themselves the **“saviors of the city”**, but what they really mean is the **return of old corruption**: bribery, nepotism, and total control of the people for the benefit of a few.
 
----
-
-## 🎯 Role of the Old Government in Mini Boss Battles
-
-This faction has **different expertise and resources** compared to the Rival Mafia, allowing mini boss battles to be approached with more **strategic and high-tech methods**:
-
-1. **Lucia "The Iron Widow" (Brawler)**
-
-   - Old Government provides **arena location intel and ventilation routes** to avoid hired thugs.
-   - Sends **sniper teams or distraction drones** so Alex can focus on attacking Lucia.
-   - Gameplay: Players can choose stealth using vents, distract thugs, or a frontal attack aided by drones.
-
-2. **Elena "The Black Veil" (Spy)**
-
-   - Provides **CCTV access and casino codes**, helping Alex avoid traps.
-   - Supplies **secret documents on Elena’s henchmen** so they can be tracked or weakened.
-   - Gameplay: Players can opt for stealth, hacking, or manipulating henchmen to confront Elena.
-
-3. **Viktor "The Hound" (Executioner)**
-
-   - Provides **maps of prison corridors and trap blueprints** to avoid deadly attacks.
-   - Offers **simple tools** to disable mechanical traps.
-   - Gameplay: Players can use the enemy’s traps, lure Viktor into certain positions, or fight aggressively.
+They don’t see Alex as a hero, but as a **covert operative tool** to destroy the Twins’ loyalists.
+However, the longer Alex works with them, the clearer it becomes that they are **just as rotten**, only wearing different uniforms.
 
 ---
 
-## Mini Boss 2 – **Lucia "The Iron Widow"** (Brawler)
+## 🎯 The Old Government’s Role in Mini-Boss Battles
+
+Unlike Rival Mafias, this faction does not offer thugs or underground paths.
+They provide **tools, technology, and military-style tactics**.
+
+- **The player can utilize state resources (intel, drones, satellites, special weapons).**
+- But this also means Alex becomes more tied to them, his movements increasingly controlled.
+
+---
+
+### 1. **Lucia "The Iron Widow" (Enforcer)**
+
+- Support:
+
+  - **Intel on ventilation routes** and arena maps.
+  - **Distraction drones** or **sniper teams** to suppress the crowd.
+
+- Gameplay:
+
+  - Stealth through ventilation.
+  - Frontal assault with sniper support.
+  - Sabotage the arena by hacking the lighting system.
+
+---
+
+### 2. **Elena "The Black Veil" (Spy)**
+
+- Support:
+
+  - **Full access to the casino’s CCTV.**
+  - **Override codes for electronic security systems.**
+  - **Elena’s classified documents** → can be used to force her agents to defect.
+
+- Gameplay:
+
+  - Hack systems to disable traps.
+  - Manipulate Elena’s subordinates using the secret files.
+  - Or ignore all that → a more challenging duel.
+
+---
+
+### 3. **Viktor "The Hound" (Executioner)**
+
+- Support:
+
+  - **Blueprints of the underground prison**, complete with traps.
+  - **Portable military gear** (EMP, signal jammer, small charges to open doors).
+
+- Gameplay:
+
+  - Lure Viktor into his own traps by manipulating the system.
+  - Use EMP to disable traps and lights → total darkness, brutal duel.
+  - Or go aggressive with shadow unit support.
+
+---
+
+## Mini-Boss 2 – **Lucia "The Iron Widow"**
 
 - **Character**
-  Lucia is a brutal woman, formerly a street fighter. She lost her husband to mafia gambling and was forced to work for them to survive. Her body is full of old scars, and she wields a heavy iron mace.
-  She symbolizes the raw strength of the Ruviero family and is assigned as a **human barrier**.
+  Cousin, 24 years old. Sweet bakery owner on the surface, but a vicious fighter.
 
 - **Location**
-  Secret training warehouse on the city outskirts, where people are forced to fight to the death for underground entertainment and betting.
+  Illegal fighting warehouse on the city’s outskirts.
 
 - **Battle**
-  Blood-soaked arena full of cheering spectators. Lucia does not fight alone—paid onlookers also attack Alex. Every strike can shatter bones.
+  Arena packed with brutal spectators. Lucia leads the crowd in attacking.
+  With Old Government support, the player can:
+
+  - Call snipers to suppress the crowd.
+  - Use ventilation for stealth kills.
+  - Or let the arena descend into chaos → full brutal duel.
 
 - **Final Dialogue**
 
-  > _"I fight… to survive… you are just a pawn… like me… but a pawn like me can choose to die with a clenched fist."_
+  > _“I fought just to survive… you’re a pawn… same as me. But I choose to die with my fists raised.”_
 
 - **After Defeat**
-  The Old Government praises Alex but emphasizes that **Alex is merely their tool**.
+  The Old Government says:
+  _“Good. See? With our instructions, everything is easier.”_
+  → The player begins to realize: he is just an execution tool.
 
 ---
 
-## Mini Boss 3 – **Elena "The Black Veil"** (Spy)
+## Mini-Boss 3 – **Elena "The Black Veil"**
 
 - **Character**
-  Elena is a deceptive woman. Formerly a government informant, she betrayed them by selling intelligence to the Twins. Smart and slippery, she is known for staying **three steps ahead** of her enemies. Elena is the mastermind behind many clean mafia operations, leaving no trace.
+  Distant relative, 29 years old. Brilliant professor, expert in intel and infiltration.
 
 - **Location**
-  Luxury casino in the city center, full of electronic traps and disguised henchmen.
+  Luxurious casino with layered electronic security.
 
 - **Battle**
-  Alex can use CCTV, access codes, and intel documents from the Old Government to face Elena. Options: stealth, hacking, or manipulating henchmen.
+
+  - Player can hack the security system with Old Government support.
+  - Can use secret files to turn Elena’s agents.
+  - Or ignore all that → a pure duel full of traps.
 
 - **Final Dialogue**
 
-  > _"Heh… information is the most valuable currency. I know everything… including who you really are. Too bad… now that secret is buried with me."_
+  > _“Heh… information is currency. I know everything… even who you really are. Too bad… that secret dies with me.”_
 
 - **After Defeat**
-  The Old Government reminds Alex that **they are all spying and controlling**, including him.
+  The Old Government warns Alex:
+  _“See? Even the Black Veil couldn’t hide from our surveillance. Remember, we’re watching you too.”_
+  → Foreshadowing their total control.
 
 ---
 
-## Mini Boss 4 – **Viktor "The Hound"** (Executioner)
+## Mini-Boss 4 – **Viktor "The Hound"**
 
 - **Character**
-  Viktor is the legendary executioner of the Ruviero family, known for hunting targets to the ends of the earth. Nicknamed **“The Hound”** because his killing instinct is like a hunting dog: once he smells blood, he never stops until the target is dead.
-  He was once a government executioner before being sold to the mafia.
+  Relative, 35 years old. Friendly innkeeper, but with a secret torture chamber.
 
 - **Location**
-  Hidden underground prison, narrow corridors full of execution traps.
+  Underground prison with narrow corridors and mechanical traps.
 
 - **Battle**
-  Players can use trap blueprints, secret routes, and tools from the Old Government. Strategy options: luring, counter-traps, or direct confrontation.
+
+  - Use EMP to disable all traps → duel in the dark.
+  - Use prison blueprints to lock Viktor in a narrow corridor.
+  - Or frontal fight with tactical shadow unit support.
 
 - **Final Dialogue**
 
-  > _"You think killing me… ends everything? Heh… the Twins have already prepared hell for you… and I’ll be waiting there."_
+  > _“You think taking me down is the end? Hah… The Twins have already prepared hell for you. I’ll be waiting there.”_
 
 - **After Defeat**
-  The Old Government asserts full control over the city. Alex realizes they are not liberators, just a **new face of old corruption**.
+  The Old Government emphasizes control:
+  _“Without our oversight, you’d be dead here. Remember your place.”_
 
 ---
 
-## ⚖️ Player Choices
+# ⚖️ Final Choice – Old Government Path
 
-### 1. **Stay and Join**
+After the three loyalists fall, the faction reveals its true ambition:
+They want to **reclaim Valdoro under the old face of corruption**.
 
-- Player officially becomes a shadow “state tool.”
-- The city seems more stable, mafia cornered, but the old corrupt face returns to power.
-- Citizens are not free, only replaced by new masters.
-- **Ending**:
-  _Player sits in a secret meeting room with generals and old officials. On the table lies a city map marked in red. They say: “Now this city belongs to us… and to you too.”_
+The player is given three options:
 
 ---
 
-### 2. **Leave (Neutral)**
+### 1. **Stay with Them**
 
-- Player refuses to be their puppet.
-- The Old Government does not attack directly but begins **spreading bad rumors** about the player.
-- The city falls to them, but without complete control.
-- **Ending**:
-  _Player walks alone through the broken city streets. A giant billboard reads: “City Safe in the Right Hands.” Faces of old officials appear on the screen, mocking the player’s efforts._
-
----
-
-### 3. **Destroy**
-
-- Player attacks their headquarters (old government building / former military base).
-- The old corruption collapses, former officials vanish, but the city falls into chaos without a clear ruler.
-- Citizens begin to see the player as a true symbol of resistance—though the city’s future remains uncertain.
-- **Ending**:
-  _The old government building burns behind the player. From afar, citizens gather, some cheering, some terrified. Camera focuses on the player standing alone amid the ruins, staring at a city that may never be saved._
+- Alex officially becomes a “state asset.”
+- The city is stable on the surface, the mafia cornered, but old corruption returns to power.
+- **Ending:**
+  Alex sits in a secret meeting room with generals and officials. A city map covered in red markers. They say:
+  _“This city is ours again… and yours too.”_
 
 ---
 
-⚡ **Story continues to: [Final Boss – Ruviero Twins](/final)**
+### 2. **Walk Away (Neutral)**
+
+- Alex refuses to be their puppet.
+- The Old Government doesn’t kill him, but spreads **smear propaganda** about him.
+- The city falls into their hands, the people fooled by false images.
+- **Ending:**
+  Alex walks alone through the ruined city streets.
+  A giant billboard: **“The City is Safe in the Right Hands”**, smiling faces of old officials.
+
+---
+
+### 3. **Destroy Them**
+
+- Alex storms their headquarters (old government building / former military base).
+- Old corruption collapses, their apparatus disbands, but the city falls into anarchy.
+- **Ending:**
+  Government building burns. Citizens gather: some cheer, some tremble in fear.
+  Camera close-up on Alex’s face → “hero or destroyer”?
+
+---
+
+⚡ **Story continues to: [Final Boss – The Ruviero Twins](/final)**
