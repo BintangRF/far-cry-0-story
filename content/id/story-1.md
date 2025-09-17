@@ -4,134 +4,140 @@
 
 ### 🎭 Gambaran Umum
 
-**Kelompok Mafia Saingan** adalah geng lama yang pernah menguasai Valdoro sebelum dikalahkan oleh **Kembar Ruviero**. Mereka kehilangan kekuasaan, dipaksa bersembunyi di bayangan kota, dan menunggu kesempatan untuk bangkit kembali.
+**Kelompok Mafia Saingan** adalah geng lama yang pernah berkuasa di Valdoro sebelum dikalahkan oleh **Kembar Ruviero**. Kini mereka bersembunyi, menunggu saat untuk kembali mengambil alih kota.
 
-Bagi mereka, kemunculan Alex adalah **karunia tak terduga**: seorang asing yang mampu melukai Kembar, sesuatu yang mereka sendiri tak bisa lakukan.
+Bagi mereka, kemunculan Alex adalah **karunia tak terduga**: seorang asing yang bisa melukai Kembar—sesuatu yang tak pernah bisa mereka lakukan sendiri.
 
-Mereka licik, haus darah, dan hanya peduli pada satu hal: **kekuasaan absolut**. Bergabung dengan mereka berarti masuk ke dunia penuh intrik politik mafia, pengkhianatan, perebutan wilayah, dan penggunaan cara-cara kotor.
+Namun, bergabung dengan mereka berarti Alex masuk ke dunia **politik kotor, intrik mafia, dan perebutan wilayah berdarah.**
+Mereka tak peduli pada kebebasan kota, hanya **ingin jadi raja baru**.
 
 ---
 
 ## 🎯 Peran Kelompok Mafia Saingan dalam Pertarungan Mini Boss
 
-Kelompok ini **memberi Alex berbagai keuntungan** untuk menghadapi mini boss, tapi semuanya bersifat taktikal—bukan kekuatan mutlak. Ini membuat setiap pertarungan **unik tergantung pilihan player**:
+Mafia Saingan **tidak memberi kekuatan langsung**, melainkan **alat taktis dan informasi**. Hal ini membuat pertarungan melawan loyalis Kembar lebih bervariasi:
 
-1. **Lucia "The Iron Widow"** (Tukang Pukul)
-
-   - Mafia Saingan menyediakan **intel tentang lokasi jebakan dan rute tersembunyi** di arena.
-   - Alex bisa menggunakan **preman bayaran yang setengah loyal** sebagai gangguan sementara, mengalihkan perhatian Lucia.
-   - Gameplay: Pemain dapat memilih untuk menyelinap, menyerang frontal dengan bantuan gangguan, atau kombinasi keduanya.
-
-2. **Elena "The Black Veil"** (Mata-mata)
-
-   - Mafia Saingan memberi **akses ke identitas anak buah Elena** yang menyamar, serta **kode sinyal kamera pengintai** di kasino.
-   - Alex bisa memanfaatkan informasi ini untuk **menghindari jebakan elektronik**, memancing Elena keluar dari persembunyian.
-   - Gameplay: Pemain dapat menggunakan strategi stealth atau menyerang dengan intel untuk memaksa pertarungan lebih cepat.
-
-3. **Viktor "The Hound"** (Eksekutor)
-
-   - Mafia Saingan menyediakan **peta penjara bawah tanah** dan **alat sederhana** untuk menonaktifkan jebakan.
-   - Alex dapat memanfaatkan jebakan lawan untuk memukul balik, atau memanfaatkan lorong sempit untuk mengecoh Viktor.
-   - Gameplay: Pemain bisa memilih cara agresif langsung menghadapi Viktor, atau menggunakan rute rahasia dan jebakan untuk memenangkannya dengan risiko lebih kecil.
+- Player bisa **menggunakan bantuan mafia** → pertarungan lebih mudah, tapi makin terlihat kalau Alex jadi pion mereka.
+- Atau **menolak bantuan mafia** → pertarungan lebih sulit, tapi Alex menjaga kemandiriannya.
 
 ---
 
 ## Mini Boss 2 – **Lucia "The Iron Widow"** (Tukang Pukul)
 
 - **Karakter**
-  Lucia adalah wanita brutal yang dulunya petarung jalanan. Ia kehilangan suaminya karena perjudian mafia, lalu dipaksa bekerja untuk mereka agar bisa bertahan hidup. Tubuhnya penuh luka lama, tangannya menggenggam gada besi khusus yang beratnya hampir mustahil diangkat orang biasa.
-  Lucia adalah simbol kekuatan kasar keluarga Ruviero—ia ditugaskan untuk menjadi **pagar hidup** yang menjaga bisnis pertarungan ilegal mereka.
+  Sepupu, 24 tahun. Pemilik toko roti terkenal, ramah dan manis di depan umum. Namun di balik itu, dia petarung brutal dengan kekuatan fisik luar biasa. Pesona dan ancaman dalam satu tubuh.
 
 - **Lokasi**
-  Gudang pelatihan rahasia di pinggiran kota, tempat orang-orang dipaksa bertarung hingga mati untuk hiburan dan taruhan gelap.
+  Gudang pertarungan ilegal di pinggiran kota, tempat orang dipaksa bertarung hingga mati demi taruhan.
 
 - **Pertarungan**
-  Arena berdarah penuh sorakan. Lucia tidak bertarung sendirian—penonton bayaran ikut menyerang Alex. Setiap pukulannya bisa menghancurkan tulang.
+  Arena penuh penonton brutal yang ikut menyerang Alex.
+  Mafia Saingan memberi **intel lokasi rute rahasia dan preman bayaran** yang bisa dipakai Alex sebagai pengalih perhatian.
+
+  - Opsi Gameplay:
+
+    - Serang frontal dengan dukungan preman bayaran.
+    - Gunakan jalur rahasia untuk menyelinap.
+    - Campuran: sabotase ring pertarungan lalu hajar Lucia.
 
 - **Dialog Terakhir**
 
-  > _"Aku berjuang… demi bertahan hidup… kau hanya pion… seperti aku… tapi pion sepertiku bisa memilih mati dengan kepalan tangan."_
+  > _"Aku berjuang demi bertahan hidup… kau hanya pion… sama sepertiku. Tapi pion sepertiku bisa memilih mati dengan kepalan tangan."_
 
 - **Setelah Kalah**
-  Mafia Saingan memuji Alex, menyebut ini sebagai langkah besar pertama dalam **menghancurkan loyalis Kembar**. Mereka semakin percaya bahwa Alex adalah alat untuk merebut kembali kota.
+  Mafia Saingan memuji Alex. Mereka menyebut ini **awal kebangkitan Valdoro**, tapi jelas mereka lebih peduli pada ambisi mereka sendiri.
 
 ---
 
 ## Mini Boss 3 – **Elena "The Black Veil"** (Mata-mata)
 
 - **Karakter**
-  Elena adalah wanita penuh tipu daya. Dahulu ia adalah informan pemerintah, tapi berkhianat dan menjual informasi kepada Kembar. Ia cerdas, licin, dan dikenal selalu **tiga langkah di depan** musuh-musuhnya. Elena adalah otak di balik banyak operasi mafia yang bersih tanpa jejak.
+  Kerabat jauh, 29 tahun, profesor cerdas. Master manipulasi, ahli jaringan intel, memastikan bisnis gelap Ruviero selalu aman.
 
 - **Lokasi**
-  Kasino mewah di pusat kota, penuh jebakan elektronik dan anak buah menyamar.
+  Kasino mewah di pusat kota, penuh jebakan elektronik, kamera, dan anak buah yang menyamar sebagai penjudi.
 
 - **Pertarungan**
-  Strategi, jebakan elektronik, anak buah yang menyamar. Alex harus membedakan mana musuh asli dan mana tipuan.
+  Mafia Saingan memberi **data agen ganda Elena** serta **kode override kamera**.
+
+  - Opsi Gameplay:
+
+    - Gunakan data intel untuk mengidentifikasi agen palsu.
+    - Hack kamera agar Elena keluar dari persembunyian.
+    - Abaikan bantuan mafia → pertarungan lebih susah karena penuh tipuan.
 
 - **Dialog Terakhir**
 
-  > _"Heh… informasi adalah mata uang paling berharga. Aku tahu semuanya… termasuk siapa kau sebenarnya. Sayang… sekarang rahasia itu terkubur bersamaku."_
+  > _"Heh… informasi adalah mata uang paling berharga. Aku tahu segalanya… bahkan siapa kau sebenarnya. Sayang, rahasia itu mati bersamaku."_
 
 - **Setelah Kalah**
   Mafia Saingan memperingatkan Alex:
-  _“Kalau Elena bisa tahu semua rahasiamu, orang lain juga bisa. Jangan pernah percaya siapapun—bahkan kami.”_
+  _“Kalau Elena bisa tahu semua rahasiamu, orang lain juga bisa. Jangan percaya siapa pun… bahkan kami.”_
+  → Foreshadowing bahwa mereka sendiri juga berpotensi mengkhianati Alex.
 
 ---
 
 ## Mini Boss 4 – **Viktor "The Hound"** (Eksekutor)
 
 - **Karakter**
-  Viktor adalah algojo legendaris keluarga Ruviero, dikenal karena memburu targetnya sampai ujung dunia. Dijuluki **“The Hound”** karena insting membunuhnya seperti anjing pemburu: sekali mencium darah, tak akan berhenti sampai target mati.
-  Ia pernah menjadi eksekutor pemerintah lama, sebelum dijual ke mafia.
+  Kerabat, 35 tahun. Pemilik penginapan sederhana yang dikenal ramah. Namun di bawah penginapannya tersembunyi ruang penyiksaan untuk musuh keluarga.
 
 - **Lokasi**
-  Penjara bawah tanah rahasia, lorong sempit penuh jebakan eksekusi.
+  Penjara bawah tanah rahasia dengan lorong sempit dan jebakan eksekusi.
 
 - **Pertarungan**
-  Viktor menggunakan kapak besar, memanfaatkan lorong sempit dan jebakan penjara.
+  Mafia Saingan memberi **peta penjara** dan **alat untuk sabotase jebakan**.
+
+  - Opsi Gameplay:
+
+    - Hadapi Viktor langsung dengan risiko tinggi.
+    - Gunakan jebakan balik untuk melukainya.
+    - Manfaatkan lorong rahasia untuk duel 1v1 tanpa gangguan.
 
 - **Dialog Terakhir**
 
-  > _"Kau pikir menghancurkan aku… berarti akhir dari semuanya? Heh… Kembar sudah menyiapkan neraka untukmu… dan aku akan menunggumu di sana."_
+  > _"Kau pikir menjatuhkan aku berarti akhir dari segalanya? Hah… Kembar sudah menyiapkan neraka untukmu. Aku akan menunggumu di sana."_
 
 - **Setelah Kalah**
-  Mafia Saingan bersorak, tapi ambisi mereka terlihat jelas: **menggantikan posisi Ruviero, bukan membebaskan kota.**
+  Mafia Saingan bersorak atas kemenangan Alex. Tapi semakin jelas: **mereka ingin menggantikan Kembar, bukan membebaskan kota.**
 
 ---
 
-# ⚖️ **Pilihan di Akhir Jalur Mafia Saingan**
+# ⚖️ **Pilihan Akhir Jalur Mafia Saingan**
 
-Setelah ketiga mini boss loyalis Kembar tumbang, Mafia Saingan akhirnya menyingkap maksud mereka:
-Mereka ingin **menguasai kembali kota sepenuhnya**, dengan Alex sebagai eksekutor mereka.
+Setelah tiga loyalis tumbang, Mafia Saingan mengungkap niat sebenarnya:
+**Mereka ingin Alex jadi algojo mereka untuk merebut Valdoro.**
 
-Player kini diberi pilihan:
+Player kini punya tiga opsi:
 
 ---
 
 ### 1. **Tetap Bergabung**
 
-- Alex menerima tawaran Mafia Saingan.
-- Kota jatuh ke tangan mereka, lebih brutal meski berbeda wajah.
-- Ending:
-  _Player duduk di ruangan gelap bersama bos Mafia Saingan. Mereka bersulang, lalu membicarakan masa depan Valdoro sebagai “kota baru” di bawah kekuasaan mafia._
+- Alex menerima tawaran mafia.
+- Kota jatuh ke tangan mereka, wajah baru tapi sama brutalnya.
+- **Ending:**
+  Alex duduk bersama bos Mafia Saingan, bersulang dalam ruangan gelap. Kamera menyorot wajah kosong Alex → ia hanyalah bagian dari mesin baru.
 
 ---
 
 ### 2. **Pergi (Netral)**
 
-- Alex menolak terlibat lebih jauh.
-- Mafia Saingan tetap mengambil alih kota, tapi tanpa keterlibatan Alex.
-- Ending:
-  _Valdoro tidak sepenuhnya hancur, tapi penuh perebutan wilayah dan kerusuhan kecil. Alex berjalan pergi, meninggalkan kota yang akan terus terbakar perlahan._
+- Alex menolak ikut campur lebih jauh.
+- Mafia Saingan tetap menguasai kota, tapi Alex keluar dari permainan.
+- **Ending:**
+  Valdoro penuh perebutan wilayah. Alex berjalan pergi, meninggalkan kota yang akan terus terbakar perlahan.
 
 ---
 
 ### 3. **Menghancurkan Mafia Saingan**
 
-- Alex mengkhianati Mafia Saingan setelah Kembar tumbang.
-- Pemimpin mereka diburu dan dihancurkan satu per satu, meninggalkan kekosongan kekuasaan.
-- Ending:
-  _Kota kacau total karena semua kelompok kriminal hancur. Tidak ada penguasa tunggal lagi, hanya anarki. Tapi bagi Alex, lebih baik kota tanpa raja… daripada raja baru yang sama busuknya._
+- Alex berbalik melawan mafia setelah Kembar jatuh.
+- Pertarungan chaos: player melawan bekas sekutu sendiri.
+- **Ending:**
+  Kota jatuh ke anarki. Tidak ada raja, hanya kekosongan.
+  Monolog Alex:
+  _“Tanpa penguasa… Valdoro bebas. Tapi bebas… bukan berarti damai.”_
 
 ---
 

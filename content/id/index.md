@@ -1,123 +1,228 @@
-# **Arc 1 – Bayangan Pertama**
+# 🌑 Arc 1 – Bayangan Pertama (Revisi)
 
 ---
 
-## **Awal Arc – Perang Sendiri**
+## 🎬 Prolog – Bayangan Valdoro
 
-Setelah menyusup ke Valdoro dengan identitas samar, Alex mulai bergerak sendiri.
-Dia tidak punya organisasi, tidak punya sumber daya besar, tapi punya tekad untuk melawan.
+### Flashback Kemenangan Keluarga Ruviero
 
-Target pertamanya adalah **bisnis-bisnis kecil milik mafia**—urat nadi kekuasaan mereka di jalanan:
+**Setting:** Valdoro, 1 tahun lalu. Malam kemenangan pemilihan umum.
+_Balai kota dipenuhi spanduk “Ruviero for the Future”. Kembang api menghiasi langit, warga bersorak, musik kemenangan berkumandang._
 
-- **Gudang penyelundupan di pelabuhan** – tempat mereka memasok senjata dan narkoba.
-- **Klub malam gelap** – pusat pencucian uang sekaligus sarang distribusi narkoba.
-- **Rumah judi ilegal** – jantung ekonomi bawah tanah keluarga Ruviero.
+Di atas panggung, **Aldric dan Adrik Ruviero** berdiri sebagai simbol generasi baru Valdoro. Di sisi panggung, **Diego** yang saat itu masih berusia awal 20-an, berdiri tegak mendampingi.
 
-Gameplay awal menekankan gaya **hit-and-run**: Alex menyerang dengan cepat, menghancurkan, lalu menghilang sebelum bala bantuan datang.
+> **Aldric Ruviero:** > _“Hari ini bukan hanya kemenangan keluarga kami… ini adalah kemenangan Valdoro. Kota ini akan menjadi rumah yang aman bagi semua.”_
 
-Setiap serangan kecil membuat nama “sosok bayangan” mulai beredar di antara mafia.
-Mereka gelisah, sadar ada seseorang yang berani menantang mereka.
+Kamera menyorot wajah **Adrik**, yang tersenyum tenang tapi penuh rahasia. Lalu beralih ke **Diego**, tatapannya tajam meski berwajah ramah.
 
 ---
 
-### **Monolog Alex**
+### Tutorial Tersembunyi (Diego)
 
-> _“Aku tidak punya pasukan. Tidak punya senjata berat. Yang kumiliki hanya satu hal: kebenaran bahwa mereka bisa dilukai. Dan sekali darah mereka tumpah, bau itu akan menyebar ke seluruh kota.”_
+**Transisi:** Tulisan di layar – _“Malam itu juga”_.
+Player langsung masuk gameplay sebagai **Diego Ruviero**.
 
----
+- **Objective:** _“Habisi pengkhianat keluarga.”_
+- **Tutorial Gameplay:**
 
-## **Pertemuan dengan Mini Boss 1 – “The Prodigy”**
+  - Stealth → mengikuti target di lorong gelap.
+  - Combat dasar → pisau lempar, serangan cepat.
+  - Finisher → QTE eksekusi.
 
-Mafia Ruviero tidak tinggal diam.
-Mereka mengirim **Diego Ruviero**, anak emas keluarga mafia, berusia 17 tahun. Diego adalah **pembunuh muda berbakat**: sniper handal, ahli pisau lempar, dan penguntit yang kejam. Meski masih remaja, ia terkenal sebagai **simbol kebanggaan keluarga**. Rakyat mengenalnya sebagai anak jenius yang mendukung yayasan sosial—padahal ia adalah mesin pembunuh yang dibesarkan mafia.
-
-### **Gameplay Unik: Diego sebagai Hunter**
-
-- Diego tidak langsung muncul di cutscene.
-- Ia **memburu Alex di berbagai misi**, menembak dari kejauhan, meninggalkan jebakan, lalu menghilang.
-- Akhirnya, duel besar terjadi di **atap gedung tinggi Valdoro, malam hari**.
+**Arena:** Gudang tua di distrik pelabuhan. Lampu redup, hujan deras.
+Setelah mengejar dan menangkap target, **cutscene kill** memperlihatkan sisi brutal Diego.
 
 ---
 
-### **Boss Fight – Diego "The Prodigy"**
+### Identitas Terungkap
 
-- **Arena**: Atap dengan papan reklame neon, lampu kota yang berkedip, dan hujan deras.
-- **Gaya bertarung**: Stealth, cepat, sulit diprediksi. Diego bisa bersembunyi, menyerang dari kegelapan, lalu melarikan diri.
-- **Atmosfer**: Musik tegang, suara hujan, dan sorak samar warga yang tak tahu ada duel berdarah di atas mereka.
+Cutscene otomatis. Diego menyalakan radio, melapor ke Adrik.
 
----
+> **Diego:** > _“Pengkhianat sudah diam. Tidak ada yang tersisa.”_
 
-### **Dialog Terakhir Diego**
+> **Adrik (via radio):** > _“Bagus. Ingat, Valdoro hanya bisa dijaga dengan bayangan. Pulanglah, Diego.”_
 
-Saat Alex berhasil menundukkan Diego:
-
-> _“Kau pikir aku ingin ini? Aku cuma anak jalanan… mereka beri aku rumah, nama, dan senjata. Kalau aku mati sekarang… siapa yang akan peduli?”_
-
-Diego mati sebagai simbol bagaimana mafia merusak generasi muda, menumbuhkan loyalitas dengan kasih sayang palsu.
+Kamera menyorot Diego berdiri di tengah hujan, siluetnya kontras dengan lampu kota.
 
 ---
 
-## **Setelah Kematian Mini Boss 1 – Kota Mulai Goyah**
+### Judul Game
 
-- **Media gelap Valdoro** memberitakan kejadian ini dengan framing mafia: _“Pembunuh bayaran misterius menyerang keluarga Ruviero.”_
-- Publik panik: Diego dikenal masyarakat sebagai anak jenius dan simbol harapan. Mereka tidak tahu wajah aslinya.
-- **Mafia marah besar**, meningkatkan patroli jalanan, memperketat pengamanan bisnis, dan memberi perintah: _“Temukan pembunuh anak kami. Hidup atau mati.”_
+**Visual:** Logo besar muncul dengan efek neon dan kilat:
 
-Kota mulai berubah—Alex kini resmi menjadi **musuh nomor satu keluarga mafia**.
+# 🎮 FAR CRY 0: SHADOW OF VALDORO
 
----
-
-## **Munculnya Kelompok Lain**
-
-Dengan runtuhnya “anak emas” mafia, **keseimbangan kekuasaan goyah**.
-Kelompok lain mulai bermunculan, menawarkan diri untuk membantu Alex:
+_Background:_ Diego berdiri di atap gudang, senapan di tangan, kota Valdoro berkilau di kejauhan.
 
 ---
 
-### 1. **Kelompok Saingan Mafia**
+### Peralihan ke Alex (POV Utama)
 
-- **Identitas**: Geng lama yang pernah berkuasa sebelum digulingkan keluarga Ruviero.
-- **Karakteristik**: Brutal, oportunis, haus kekuasaan.
-- **Janji**: Senjata, uang, dan pasukan jalanan.
-- **Bahaya**: Bergabung dengan mereka berarti mengganti satu penguasa mafia dengan yang lain.
+Siang hari, **Alex** baru saja tiba di Valdoro dengan koper sederhana. Ia disambut suasana kota yang hidup: pasar, kafe, musik jalanan, dan warganya yang ramah.
 
----
+> **Monolog Alex (VO):** > _“Valdoro… kota yang katanya paling aman. Tempat yang sempurna untuk melupakan masa lalu seorang sepertiku.”_
 
-### 2. **Kelompok Bayangan Pemerintah Korup Lama**
-
-- **Identitas**: Politisi, mantan polisi, dan aparat lama yang kehilangan kekuasaan.
-- **Karakteristik**: Licik, birokratis, penuh intrik politik.
-- **Janji**: Koneksi politik, dokumen rahasia, akses ke fasilitas pemerintah.
-- **Bahaya**: Membantu mereka berarti membuka jalan bagi rezim lama yang sama busuknya.
+**Gameplay singkat:** player sebagai Alex, berjalan keliling kota → ngobrol dengan pedagang, melihat mural Ruviero, mendengar percakapan warga yang memuji kepemimpinan mereka.
 
 ---
 
-### 3. **Kelompok Idealis (Anti-Mafia)**
+### Malam Tak Terduga
 
-- **Identitas**: Sekelompok kecil warga sipil, akademisi, dan mantan aktivis.
-- **Karakteristik**: Lemah secara militer, tapi punya idealisme kuat.
-- **Janji**: Informasi dari warga, jalur distribusi rahasia, dukungan moral.
-- **Bahaya**: Tidak punya kekuatan nyata, rawan dibantai mafia bila tidak dilindungi.
+Alex berjalan pulang melewati lorong sempit. Ia melihat seorang pria berlari ketakutan dengan **mulut ditutup alat logam**.
+Refleks, Alex ingin membantu.
 
----
+Dari bayangan, **Diego muncul**.
 
-## **Cliffhanger Akhir Arc 1**
+- Alex: _“Hei! Apa yang kau lakukan?!”_
+- Diego (dingin, tanpa menoleh): _“Ini bukan urusanmu, orang baru.”_
 
-**Cutscene**:
-Alex duduk di bar remang-remang, tubuhnya penuh luka setelah duel dengan Diego.
-Tiga wakil kelompok masuk satu per satu, duduk di hadapannya, masing-masing berbicara:
+Gameplay singkat: Alex mencoba menghadang, tapi kalah telak dalam perkelahian singkat. Diego dengan efisien mengeksekusi target di depan mata Alex.
 
-- _“Kota ini butuh orang seperti kau. Mari kita rebut kembali apa yang seharusnya milik kami.”_ (Saingan Mafia)
-- _“Sendirian kau tidak akan bertahan. Bersama kami, kau bisa membersihkan kota… dengan cara yang tepat.”_ (Pemerintah Korup)
-- _“Jika kau benar-benar ingin kebebasan… dengarkan suara rakyat. Kami mungkin kecil, tapi kami satu-satunya yang jujur.”_ (Idealis)
+Sebelum pergi, Diego mendekat, berbisik:
 
-Kamera menyorot wajah Alex, ia terdiam.
-Player kini diberi pilihan **kelompok mana yang ingin digabungkan lebih dulu**.
+> **Diego:** > _“Valdoro bukan kota untuk pahlawan. Kau akan belajar itu cepat atau lambat.”_
+
+Diego meninggalkan Alex, yang terduduk terkejut.
 
 ---
 
-⚡ **Pilih Kelompokmu:**
+### Awal Masalah Alex
 
-- [Kelompok Saingan Mafia](/story-1)
-- [Kelompok Bayangan Pemerintah Korup Lama](/story-2)
-- [Kelompok Idealis (Anti-Mafia)](/story-3)
+Keesokan harinya, Alex masih terguncang. Ia menyadari kota yang tampak aman ternyata menyembunyikan sisi gelap.
+
+> **Monolog Alex (VO):** > _“Aku hanya ingin hidup damai. Tapi semalam membuka mataku… Valdoro bukan surga. Valdoro adalah kandang serigala.”_
+
+**Objective Baru:** _“Cari tahu siapa Diego Ruviero.”_
+
+Dari sini, player mulai masuk ke gameplay inti: Alex menyelidiki kota, mendengar rumor, dan secara bertahap terseret ke dalam konflik keluarga Ruviero.
+
+---
+
+## ⚔️ Awal Arc – Buruan Pertama
+
+Alex sadar Valdoro bukan kota aman seperti yang ia bayangkan. Ia memutuskan untuk meninggalkan kota secepatnya.
+Namun, kabar tentang seorang “asing” yang menyaksikan eksekusi rahasia sampai ke telinga keluarga **Ruviero**.
+
+Mereka tidak berniat langsung membunuh Alex — hanya ingin **menangkapnya hidup-hidup**. Tapi bagi Alex, itu berarti akhir dari kebebasan.
+
+### Gameplay – _Hunter Becomes the Hunted_
+
+- Player sebagai **Alex** berusaha **keluar dari inti kota** menuju terminal luar.
+- **Perbedaan visual:**
+
+  - Kota inti → terang, penuh kamera CCTV, patroli “resmi”.
+  - Pinggiran kota → berubah jadi hutan liar, jalur kotor mafia, kamp penyelundupan.
+
+- Misi menekankan **survival & evasion**:
+
+  - Menyusup melewati checkpoint.
+  - Melarikan diri ke hutan di luar Valdoro.
+  - Menggunakan lingkungan liar (lumpur, sungai, reruntuhan) untuk lolos dari kejaran.
+
+- Sesekali Alex dipaksa melawan dengan senjata darurat (pipa, pisau rakitan, senjata api curian).
+
+---
+
+## 🩸 Perburuan Diego "The Prodigy"
+
+Ruviero mengirim **Diego** untuk memburu Alex.
+Bagi kota, Diego adalah simbol masa depan.
+Bagi Alex, ia hanya predator yang datang dari bayangan.
+
+### Gameplay – Perburuan Silang
+
+- Diego muncul di area pinggiran → **sniper di menara hutan**, jebakan di jalur keluar, serangan mendadak di desa nelayan.
+- Player merasa bukan pemburu, tapi **buruan**.
+- Setiap kali hampir keluar, Diego muncul untuk memutus jalan kabur.
+
+---
+
+## 🎯 Boss Fight – Diego "The Prodigy"
+
+- **Arena:** Atap gedung terbengkalai di perbatasan kota–hutan, lampu neon dari Valdoro terlihat jauh di kejauhan, hujan deras.
+- **Konsep:** bentrokan dunia terang (kota) vs dunia gelap (hutan liar).
+- **Gaya Bertarung Diego:** stealth agresif, memanfaatkan sniper & pisau untuk memojokkan Alex.
+- **Ending:** Alex menghabisi Diego secara tak sengaja, karena insting bertahan hidup.
+
+> **Diego (dialog terakhir):** > _“Aku cuma anak jalanan… mereka beri aku rumah, nama, dan senjata. Kalau aku mati sekarang… siapa yang akan peduli?”_
+
+Alex akhirnya tahu: **Diego adalah anak emas keluarga Ruviero.**
+
+---
+
+## 🌆 Setelah Kematian Diego
+
+- Di kota: media menggambarkan Alex sebagai “pembunuh misterius” yang membunuh pahlawan muda Valdoro.
+- Di pinggiran: mafia memperketat kontrol, pos pemeriksaan di hutan makin ketat, dan patroli bersenjata muncul di setiap jalur keluar kota.
+- Alex kini terjebak — **tidak bisa kembali ke kota, tidak bisa kabur lewat hutan.**
+
+> **Aldric Ruviero:** > _“Dia mencuri cahaya kami. Maka biarlah bayangan Valdoro memburunya.”_
+
+---
+
+Oke, ini menarik banget 👌.
+Kalau di akhir Arc 1 kita sudah bikin Alex “terjebak” dan terpaksa memilih, maka masuk akal kalau **kelompok-kelompok yang ingin menjatuhkan Ruviero memanfaatkan situasi ini**. Aku kasih breakdown biar flow-nya natural dan tidak terasa tiba-tiba:
+
+---
+
+# 🌑 Akhir Arc 1 – Titik Balik Alex
+
+### 🎥 Cutscene – “Buruan Jadi Senjata”
+
+- Setelah kabar kematian Diego menyebar, **nama Alex jadi headline** di seluruh Valdoro.
+
+  - Media → menyebut Alex “pembunuh misterius”.
+  - Rakyat → terbelah; sebagian percaya Alex kriminal, sebagian lain curiga ada yang disembunyikan oleh keluarga Ruviero.
+
+- Alex jadi **figur buruan nomor satu** di kota.
+
+> **Narasi berita TV di bar:** > _“Diego Ruviero, simbol masa depan Valdoro, tewas di tangan seorang asing tak dikenal. Polisi berjanji akan menangkapnya hidup atau mati. Keluarga Ruviero menyatakan akan memberikan hadiah besar bagi siapa saja yang memberi informasi tentang Alex.”_
+
+---
+
+### 🎭 Masuknya Kelompok-Kelompok Oposisi
+
+Alex kabur ke **bar bawah tanah di pinggiran kota**, luka-luka dan kelelahan. Saat dia hampir menyerah, **tiga utusan** muncul satu per satu.
+
+#### 1. **Saingan Mafia**
+
+- Datang dengan sikap santai tapi penuh ancaman.
+- Mereka melihat Alex sebagai **alat balas dendam**.
+- “Kau sudah membuka pintu. Biarkan kami yang menghancurkan sisanya. Kau hanya perlu berjalan bersama kami.”
+
+#### 2. **Pemerintah Korup Lama**
+
+- Utusan tua, berjas, penuh retorika politik.
+- Mereka ingin memanfaatkan Alex sebagai **simbol propaganda** untuk merebut kembali pengaruh yang hilang.
+- “Rakyat butuh kebenaran. Kau bisa jadi wajah yang menginspirasi mereka, sementara kami yang mengatur jalannya permainan.”
+
+#### 3. **Kelompok Idealis (Anti-Mafia)**
+
+- Datang terakhir, lebih sederhana, wajah penuh luka perang.
+- Mereka tidak punya banyak sumber daya, tapi punya **niat tulus** melawan tirani.
+- “Kami tahu siapa Diego sebenarnya. Kami tahu siapa keluarga itu. Kau tidak sendiri, Alex. Bersama kami, kau bisa menjatuhkan mereka.”
+
+---
+
+### 🎮 Player Choice – Titik Balik
+
+- Player diberi **kebebasan memilih aliansi awal**.
+- Tidak ada yang benar-benar murni → semua pihak punya agenda masing-masing.
+- Alex, yang awalnya hanya ingin kabur, sekarang **jadi pion penting** dalam perang bayangan Valdoro.
+
+---
+
+### 🎬 Ending Arc 1 – Narasi Visual
+
+- Alex menatap gelas minuman di bar, ketiga kelompok menunggu jawabannya.
+- Kamera close-up ke wajah Alex, kemudian layar hitam → teks:
+
+> _“Valdoro telah memilihmu… apakah kau siap memilih Valdoro?”_
+
+- ⚔️ [Bergabung dengan Saingan Mafia](/story-1)
+- 🕴️ [Bergabung dengan Pemerintah Korup Lama](/story-2)
+- ✊ [Bergabung dengan Kelompok Konspirasi](/story-3)
+
+---
+
+🌌 _Arc 1 berakhir. Alex yang awalnya hanya ingin pergi, kini terperangkap dalam perang yang lebih besar._

@@ -1,144 +1,104 @@
-# Pertarungan Terakhir – **Si Kembar, Raja Mafia**
-
-## Karakter
-
-- **Kakak (The Brain)**
-
-  - Karismatik, penuh wibawa.
-  - Mengatur bisnis besar: narkoba internasional, perdagangan manusia, jaringan politik, serta pencucian uang.
-  - Jarang menodai tangannya sendiri, lebih suka bicara, mengendalikan, dan mempermainkan.
-  - Percaya bahwa kota hanya bisa bertahan lewat **tangan besi dan kontrol total**.
-
-- **Adik (The Fist)**
-
-  - Brutal, temperamental, dikenal sebagai jagal di jalanan.
-  - Menguasai milisi pribadi, menjaga kota dengan teror dan kekerasan.
-  - Menghancurkan musuh dengan kekuatan militer, bukan diplomasi.
-  - Sering menjadi sosok yang ditakuti lebih dari polisi dan tentara bayaran.
-
-- **Keduanya** adalah simbol keseimbangan mafia: **otak dan otot**. Selama mereka berkuasa, kota memang tampak stabil di permukaan—ekonomi berjalan, masyarakat “terlindungi.”
-  Tapi di balik layar, semua dibangun di atas **darah, perbudakan, dan ketakutan**.
+# **Arc 3 – Pertarungan Terakhir: Adrik & Aldric Ruviero**
 
 ---
 
-## Lokasi Pertarungan
+## 🎭 Gambaran Umum
 
-- **Istana modern di pusat kota**:
+Setelah Alex secara tak sengaja masuk ke dalam sisi gelap Valdoro, ia sudah menghancurkan pilar-pilar kecil yang menopang kerajaan Ruviero.
+Tapi kota belum bebas—karena di atas semua itu masih berdiri **Aldric dan Adrik**, dua bersaudara yang membangun Valdoro dengan **cahaya kemakmuran di luar, dan darah di bawahnya**.
 
-  - Sebuah gedung pencakar langit yang sekaligus berfungsi sebagai markas, rumah, dan simbol kekuasaan.
-  - Dipenuhi lukisan keluarga, patung megah, bendera mafia, dan perhiasan hasil rampasan.
-  - Lantai dasar dipenuhi tentara elit dan teknologi keamanan: drone, turret otomatis, pintu baja.
-  - Puncak gedung menjadi ruang takhta—panorama seluruh kota bisa terlihat dari jendela kaca raksasa.
+- **Aldric** (The Brain): otak bisnis, wajah publik yang membuat kota tampak makmur.
+- **Adrik** (The Fist): jagal jalanan, tangan besi yang memastikan semua tunduk dengan rasa takut.
 
-- **Kondisi kota saat itu**:
-
-  - Setelah semua mini boss dikalahkan, kekuasaan mafia melemah.
-  - Geng kecil mulai memberontak.
-  - Aparat lama yang dulu bersembunyi kini merangkak keluar.
-  - Revolusioner anti-mafia semakin brutal.
-  - Kota berubah jadi lautan api dan peluru—dan hanya si kembar yang masih berdiri di puncaknya.
+Di sinilah player dipaksa menghadapi pertanyaan inti:
+Apakah membunuh mereka berarti membebaskan kota, atau justru membuka pintu ke kekacauan yang lebih besar?
 
 ---
 
-## Pertarungan
+## 📍 Lokasi
 
-### **Fase 1 – Adik, Si Tangan Besi**
+- **Pusat Pertarungan**:
+  Sebuah **pencakar langit megah** yang berfungsi sebagai rumah, markas, dan simbol kekuasaan Ruviero.
 
-- Adik menjadi perisai pertama.
-- Begitu player menembus barikade terakhir, Adik turun langsung ke medan perang.
-- Dia membawa senjata berat: senapan mesin, granat, bahkan eksoskeleton ringan untuk memperkuat tubuhnya.
-- Pasukan elit bersenjata lengkap melindunginya, menggunakan taktik **perisai manusia** dan kendaraan lapis baja ringan.
+  - Lantai bawah dipenuhi pasukan elit, turret otomatis, dan drone.
+  - Dinding-dinding dihiasi lukisan keluarga, bendera mafia, dan simbol kejayaan mereka.
+  - Puncak gedung adalah **ruang takhta kaca**, dengan panorama seluruh Valdoro.
 
-**Nuansa Pertarungan**:
+- **Kondisi Kota**:
+  Setelah mini boss tumbang, Valdoro jadi lautan api. Kelompok-kelompok kecil saling berebut. Semua menunggu akhir pertarungan antara Alex dan si Kembar.
 
-- Ruang pertempuran dipenuhi ledakan, tembakan, dan kehancuran.
-- Player dipaksa bertarung jarak dekat, penuh kekacauan, seolah menghadapi badai manusia.
-- Adik tidak hanya bertarung dengan brutal, tapi juga berteriak, memprovokasi, dan melecehkan player.
+---
 
-**Dialog Kematian Adik**:
+## ⚔️ Pertarungan Utama
+
+### **Fase 1 – Adrik "The Fist"**
+
+- Begitu Alex menembus markas, **Adrik langsung turun tangan**.
+- Senjata: **senapan mesin berat, granat, dan eksoskeleton ringan** untuk memperkuat fisiknya.
+- Taktik: pasukan elit membentuk **perisai manusia** dengan tameng baja, sementara kendaraan lapis baja ringan ikut dalam ruangan sempit.
+
+**Nuansa Gameplay**:
+
+- Kaotik, penuh ledakan, suara tembakan, dan teriakan.
+- Player dipaksa melawan brutalitas jarak dekat.
+- Adrik terus memprovokasi Alex dengan teriakan: _“Kau pikir bisa hancurkan kami sendirian? Aku adalah kota ini!”_
+
+**Dialog Kematian Adrik**:
 
 > _“Kau kira dengan membunuhku, kota ini jadi milikmu? Hahaha… Kau hanya akan meninggalkan reruntuhan… dan reruntuhan selalu melahirkan monster baru.”_
 
 ---
 
-### **Fase 2 – Kakak, Si Otak Licik**
+### **Fase 2 – Aldric "The Brain"**
 
-- Setelah adiknya tumbang, Kakak tidak langsung bertarung.
-- Ia menunggu di ruang takhta, menyambut player dengan kata-kata dingin dan penuh manipulasi.
+- Setelah Adrik tewas, **Aldric menunggu di ruang takhta kaca**.
+- Ia tidak langsung menyerang, tapi mencoba **menguji mental Alex**.
 
 **Awal Pertemuan**:
 
-- Kakak bertepuk tangan sambil tersenyum.
-- “Kau sudah buktikan dirimu. Tapi lihatlah keluar jendela—kota ini terbakar. Kau pikir semua ini akan berhenti jika aku mati? Tidak… kau hanya akan melepaskan binatang-binatang liar.”
+- Aldric bertepuk tangan sambil tersenyum dingin.
 
-**Jika Player menolak tawarannya**:
+- “Lihatlah keluar jendela. Api, kerusuhan, dan darah. Itu semua ulahmu. Kami menjaga kota ini tetap aman. Kau… hanya melepaskan binatang-binatang liar.”
 
-- Kakak akhirnya mengaktifkan pertahanan terakhir:
+- Jika Alex menolak tawaran damai Aldric, maka dimulailah pertempuran.
 
-  - Pasukan sisa, turret otomatis, drone kecil bersenjata, dan jebakan di seluruh ruangan.
-  - Ia menggunakan senjata modern, tapi lebih mengandalkan taktik untuk menjebak player.
+**Pertarungan**:
 
-- Pertarungan penuh intrik, berbeda dengan brutalitas adiknya.
+- Arena penuh jebakan teknologi: **turret otomatis, drone bersenjata, pintu baja yang menjebak player**.
+- Aldric bukan petarung brutal, tapi licik: menggunakan taktik untuk melemahkan Alex sebelum berhadapan langsung dengan senjata modern (pistol otomatis, pisau tersembunyi, bahkan perangkat listrik).
 
-**Dialog Kematian Kakak**:
+**Dialog Kematian Aldric**:
 
-> _“Selamat… Kau bebas sekarang. Bebas untuk menyaksikan kota ini terbakar, tanpa siapapun yang bisa mengendalikan apinya.”_
-
----
-
-## Pilihan Akhir
-
-### **1. Membunuh Si Kembar**
-
-- Player menuntaskan semua dendam.
-- Kota kini tanpa penguasa utama.
-
-#### **Varian Ending**
-
-1. **Jika Player juga menghancurkan semua kelompok lain**:
-
-   - Kota benar-benar kosong dari kekuatan besar.
-   - Kekacauan berhenti, tapi kota mati tanpa arah.
-   - Cutscene: player berjalan sendirian di jalan-jalan kosong, lampu kota mati satu per satu, suara sirene memudar.
-   - **Narasi**:
-     _“Mereka semua kubasmi. Kota ini kosong. Bukan bebas… hanya sunyi. Dan mungkin itu lebih baik daripada rantai baru.”_
-
-2. **Jika Player membiarkan kelompok lain tetap ada**:
-
-   - Kota jatuh ke tangan para oportunis.
-   - Tiga kelompok (mafia saingan, pemerintah lama, revolusioner) berebut kekuasaan.
-   - Cutscene: player keluar dari istana yang terbakar, sementara di kejauhan terlihat bendera kelompok baru dipasang di reruntuhan.
-   - **Narasi**:
-     _“Aku jatuhkan raja. Tapi kerajaan tidak pernah benar-benar mati. Kota ini hanya menunggu tirani berikutnya.”_
-
-3. **Jika Player membunuh kembar tapi memilih netral dengan kelompok lain**:
-
-   - Kota hancur total, tanpa siapapun yang bisa menahan kerusuhan.
-   - Cutscene: api membakar seluruh distrik, suara teriakan bercampur dengan sirene. Player berdiri di atap gedung, menyaksikan kota runtuh.
-   - **Narasi**:
-     _“Aku hancurkan singgasana mereka. Tapi singgasana kosong selalu mengundang raja baru… dan kota ini akan terus tenggelam dalam darah.”_
+> _“Selamat… kau bebas sekarang. Bebas untuk menyaksikan kota ini terbakar, tanpa siapapun yang bisa mengendalikan apinya.”_
 
 ---
 
-### **2. Membiarkan Si Kembar Hidup**
+## ⚖️ Pilihan Akhir
 
-- Kakak yang masih berdiri menatap player.
-- Ia tahu dirinya kalah, tapi bukan kalah total.
-- Ia menawarkan **perjanjian terakhir**.
+### 1. **Membunuh Si Kembar**
 
-#### **Jika Player Menolak**:
+- Alex menuntaskan pertarungan, kota tanpa penguasa.
+- Ending bercabang tergantung keputusan terhadap kelompok lain (Bayangan Konspirasi, pemerintah lama, dsb).
+- Intinya: kota jatuh ke dalam kekacauan, kosong, atau tirani baru.
 
-- Player meninggalkan mereka yang sudah lemah.
-- Kota tetap makmur di luar, tapi mafia tetap berkuasa di balik layar.
-- Cutscene: player berdiri di tepi kota, melihat lampu-lampu terang dari kejauhan, tapi wajahnya dingin.
-- **Narasi**:
-  _“Aku biarkan mereka hidup. Kota ini akan terus berkilau… tapi setiap cahaya butuh bayangan. Dan aku tahu siapa bayangan itu.”_
+---
 
-#### **Jika Player Menerima Bergabung**:
+### 2. **Membiarkan Si Kembar Hidup**
 
-- Player resmi jadi bagian dari puncak mafia.
-- Si Kembar mengakui player sebagai **partner dan pewaris masa depan**.
-- Kota terlihat stabil, rakyat merasa aman, tapi semua dibangun di atas jaringan kriminal.
-- Cutscene: player duduk di kursi singgasana bersama si kembar, menatap seluruh kota di bawah kendali mereka.
-- **Narasi**:
-  _“Kota ini bukan milik mereka lagi. Kota ini milikku juga sekarang. Dan jika ini neraka… maka aku adalah rajanya.”_
+- Alex memilih meninggalkan mereka yang sudah kalah.
+- Kota tetap tampak makmur, tapi mafia masih berkuasa di balik layar.
+- Ending lebih kelam: Alex sadar tidak ada yang benar-benar berubah.
+
+---
+
+### 3. **Bergabung dengan Si Kembar**
+
+- Aldric mengakui Alex sebagai **partner baru**, menggantikan posisi mereka sebagai penerus atau sekutu sejajar.
+- Ending sinis: Alex kini duduk di singgasana bersama si Kembar, menatap kota yang bersinar di atas pondasi darah.
+
+---
+
+## 🎬 Penutup Arc 3
+
+Arc ini menutup perjalanan Alex sebagai **orang luar yang hanya ingin hidup tenang**, tapi akhirnya menjadi bagian tak terpisahkan dari sejarah kelam Valdoro.
+Apa pun pilihannya, Alex tak lagi bisa kembali pada kehidupan normal.
