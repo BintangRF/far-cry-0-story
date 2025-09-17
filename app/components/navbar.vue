@@ -19,7 +19,7 @@ const { lang } = useLanguage("id");
 
 <template>
   <header
-    class="bg-custom-mafia-dark text-custom-mafia-white py-4 shadow-md border-b border-custom-mafia-accent"
+    class="bg-custom-mafia-black text-custom-mafia-white py-4 shadow-md border-b border-custom-mafia-accent"
   >
     <div class="max-w-4xl mx-auto px-4">
       <div class="flex items-center justify-between">

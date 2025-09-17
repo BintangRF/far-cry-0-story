@@ -1,4 +1,4 @@
-# 🌑 Arc 1 – Bayangan Pertama (Revisi)
+# **🌑 Arc 1 – Bayangan Pertama**
 
 ---
 
@@ -165,7 +165,7 @@ Kalau di akhir Arc 1 kita sudah bikin Alex “terjebak” dan terpaksa memilih, 
 
 ---
 
-# 🌑 Akhir Arc 1 – Titik Balik Alex
+# **🌑 Akhir Arc 1 – Titik Balik Alex**
 
 ### 🎥 Cutscene – “Buruan Jadi Senjata”
 
